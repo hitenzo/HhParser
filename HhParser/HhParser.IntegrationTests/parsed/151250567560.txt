@@ -1,0 +1,24 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = poluektovDim 870,zozolee 630
+
+[preflop]
+Hand = 6d, 5h
+Actions = zozolee S, poluektovDim B, zozolee can FCKRA do C, poluektovDim K
+
+[flop]
+Cards = 5s, Ac, 3c
+Actions = poluektovDim K, zozolee can FCKRA do C, poluektovDim C
+
+[turn]
+Cards = 8d
+Actions = poluektovDim K, zozolee can FCKRA do C, poluektovDim C
+
+[river]
+Cards = Ad
+Actions = poluektovDim K, zozolee can FCKRA do C, poluektovDim C

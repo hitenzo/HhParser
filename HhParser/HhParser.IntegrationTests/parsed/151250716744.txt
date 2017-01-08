@@ -1,0 +1,17 @@
+[table]
+sblind = 40
+bblind = 80
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = verdaum787 680,alexiscr9 820
+
+[preflop]
+Hand = 9d, 7h
+Actions = alexiscr9 S, verdaum787 B, alexiscr9 can FCKRA do C
+
+
+
+
+

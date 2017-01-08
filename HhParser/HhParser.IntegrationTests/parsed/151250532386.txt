@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = lefnjup 500,FlushStalker 500,Dan_Champ 500
+
+[preflop]
+Hand = Jd, 2c
+Actions = FlushStalker S, Dan_Champ B, lefnjup F, FlushStalker R, Dan_Champ C
+
+[flop]
+Cards = Qs, 8s, 2d
+Actions = FlushStalker B, Dan_Champ C
+
+[turn]
+Cards = Kc
+Actions = FlushStalker K, Dan_Champ B, FlushStalker C
+
+[river]
+Cards = As
+Actions = FlushStalker K, Dan_Champ B, FlushStalker C

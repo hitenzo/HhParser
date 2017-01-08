@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = InsanityMind 500,mrmasques 500,Signifikant 500
+
+[preflop]
+Hand = Ks, Ad
+Actions = mrmasques S, Signifikant B, InsanityMind can FCKRA do C, mrmasques F
+
+
+
+
+

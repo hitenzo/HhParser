@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = cantplay990 290,ViktorTk 700,W1847 510
+
+[preflop]
+Hand = 4s, Td
+Actions = Viktor Tk S, W1847 B, cantplay990 can FCKRA do C, ViktorTk F
+
+
+
+
+

@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Alisdk1986 500,DJMBEATS 500,ernestininho 500
+
+[preflop]
+Hand = 7s, 3c
+Actions = DJM BEATS S, ernestininho B, Alisdk1986 can FCKRA do C, DJMBEATS R, ernestininho F, Alisdk1986 can FCKRA do C
+
+[flop]
+Cards = Jd, 8c, As
+Actions = DJMBEATS B, Alisdk1986 can FCKRA do C
+
+[turn]
+Cards = 5c
+
+
+[river]
+Cards = 6d

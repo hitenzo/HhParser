@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Ed_28.1984 525,templargio 245,RashidAA 730
+
+[preflop]
+Hand = Jc, 2h
+Actions = Rashid AA S, Ed_28.1984 B, templargio can FCKRA do C, RashidAA C, Ed_28.1984 K
+
+[flop]
+Cards = Kd, 4s, Js
+Actions = RashidAA B, Ed_28.1984 F
+
+
+

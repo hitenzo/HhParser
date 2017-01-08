@@ -1,0 +1,21 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = shnetinka 1130,SEREGA4436 370
+
+[preflop]
+Hand = Qc, Qd
+Actions = shnetinka S, SEREGA4436 B, shnetinka can FCKRA do C, SEREGA4436 K
+
+[flop]
+Cards = Qh, 6h, Jc
+Actions = SEREGA4436 K, shnetinka can FCKRA do C
+
+[turn]
+Cards = 7h
+Actions = SEREGA4436 K, shnetinka can FCKRA do C, SEREGA4436 F
+

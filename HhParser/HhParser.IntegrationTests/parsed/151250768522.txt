@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = WenBin777 500,fusfus66 500,vilnis76 500
+
+[preflop]
+Hand = Qc, Qd
+Actions = fusfus66 S, vilnis76 B, WenBin777 R, fusfus66 C, vilnis76 F
+
+[flop]
+Cards = Ac, Qs, Ks
+Actions = fusfus66 K, WenBin777 B, fusfus66 F
+
+
+

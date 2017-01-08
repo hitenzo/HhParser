@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Huguin01 440,cfuhkcekb 280,LucianoLindo 780
+
+[preflop]
+Hand = 9c, 3d
+Actions = cfuhkcekb S, LucianoLindo B, Huguin01 can FCKRA do C, cfuhkcekb R, LucianoLindo F
+
+
+
+
+

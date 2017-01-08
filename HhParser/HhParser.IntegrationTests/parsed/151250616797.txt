@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = vasssoto 1480,wento1 20
+
+[preflop]
+Hand = Kd, Ad
+Actions = vasssoto S, wento1 B, vasssoto can FCKRA do C
+
+[flop]
+Cards = Tc, 9d, 4h
+
+
+[turn]
+Cards = 9h
+
+
+[river]
+Cards = Jc

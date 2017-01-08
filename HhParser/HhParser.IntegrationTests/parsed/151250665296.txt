@@ -1,0 +1,24 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = verdaum787 640,alexiscr9 860
+
+[preflop]
+Hand = 4d, 7c
+Actions = verdaum787 S, alexiscr9 B, verdaum787 can FCKRA do C, alexiscr9 K
+
+[flop]
+Cards = Ks, 4c, 7d
+Actions = alexiscr9 K, verdaum787 can FCKRA do C, alexiscr9 C
+
+[turn]
+Cards = Qh
+Actions = alexiscr9 K, verdaum787 can FCKRA do C
+
+[river]
+Cards = Qc
+Actions = alexiscr9 K, verdaum787 can FCKRA do C

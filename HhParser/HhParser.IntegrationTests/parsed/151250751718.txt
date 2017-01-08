@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = xBRAL1O 500,hustler10764 500,emerald2016 500
+
+[preflop]
+Hand = 9h, 6s
+Actions = hustler10764 S, emerald2016 B, xBRAL1O can FCKRA do C, hustler10764 C, emerald2016 K
+
+[flop]
+Cards = 3s, Qh, 9s
+Actions = hustler10764 K, emerald2016 K, xBRAL1O can FCKRA do C, hustler10764 F, emerald2016 C
+
+[turn]
+Cards = As
+Actions = emerald2016 B, xBRAL1O can FCKRA do C
+
+[river]
+Cards = 5c
+Actions = emerald2016 K, xBRAL1O can FCKRA do C, emerald2016 F

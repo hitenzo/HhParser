@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = sir.galojf 450,Fabrici0AM 1050
+
+[preflop]
+Hand = 3d, 4s
+Actions = sir.galojf S, Fabrici0AM B, sir.galojf can FCKRA do C
+
+
+
+
+

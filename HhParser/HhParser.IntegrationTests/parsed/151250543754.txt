@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Gustav0Costa 1060,l2gc 440
+
+[preflop]
+Hand = 4d, 9c
+Actions = Gustav0Costa S, l2gc B, Gustav0Costa can FCKRA do C, l2gc R, Gustav0Costa can FCKRA do C
+
+[flop]
+Cards = 5c, 4s, 3d
+
+
+[turn]
+Cards = As
+
+
+[river]
+Cards = Ad

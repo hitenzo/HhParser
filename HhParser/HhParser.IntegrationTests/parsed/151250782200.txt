@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = wesson3 500,IvWasp 500,geydrikh 500
+
+[preflop]
+Hand = 5h, Kc
+Actions = IvWasp S, geydrikh B, wesson3 can FCKRA do C, IvWasp C, geydrikh R, wesson3 can FCKRA do C, IvWasp F
+
+
+
+
+

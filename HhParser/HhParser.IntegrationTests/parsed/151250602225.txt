@@ -1,0 +1,19 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Datsquad 680,pkr_dv8 820
+
+[preflop]
+Hand = 3d, Ad
+Actions = pkr_dv8 S, Datsquad B, pkr_dv8 can FCKRA do C, Datsquad K
+
+[flop]
+Cards = 7h, Jd, 5h
+Actions = Datsquad K, pkr_dv8 can FCKRA do C, Datsquad F
+
+
+

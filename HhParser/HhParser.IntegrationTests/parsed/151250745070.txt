@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = l2gc 510,shmdwypc 300,BEBETO2703 690
+
+[preflop]
+Hand = 8s, 7h
+Actions = shmdwypc S, BEBETO2703 B, l2gc can FCKRA do C, shmdwypc R, BEBETO2703 C
+
+[flop]
+Cards = Qc, Qs, 7c
+
+
+[turn]
+Cards = 4s
+
+
+[river]
+Cards = 3d

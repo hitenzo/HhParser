@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = mars21666 470,justiellen 1030
+
+[preflop]
+Hand = Kc, 2c
+Actions = mars21666 S, justiellen B, mars21666 can FCKRA do C, justiellen C
+
+[flop]
+Cards = Tc, 3c, 6h
+Actions = justiellen K, mars21666 can FCKRA do C
+
+[turn]
+Cards = 2h
+Actions = justiellen B, mars21666 can FCKRA do C
+
+[river]
+Cards = 2s
+Actions = justiellen B, mars21666 can FCKRA do C

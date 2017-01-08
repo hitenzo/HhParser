@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = disgressoes 260,yjwyjw 190,rafcio333 1050
+
+[preflop]
+Hand = 8s, 4c
+Actions = yjwyjw S, rafcio333 B, disgressoes can FCKRA do C, yjwyjw C, rafcio333 R, disgressoes can FCKRA do C, yjwyjw C
+
+[flop]
+Cards = Jd, Qs, Qd
+
+
+[turn]
+Cards = 7h
+
+
+[river]
+Cards = 6d

@@ -1,0 +1,23 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = poluektovDim 790,zozolee 285,Dan_Champ 425
+
+[preflop]
+Hand = 3d, Qs
+Actions = zozolee S, Dan_Champ B, poluektovDim can FCKRA do C, zozolee R, Dan_Champ C
+
+[flop]
+Cards = 7c, Qd, 3h
+Actions = zozolee K, Dan_Champ B, zozolee R, Dan_Champ C
+
+[turn]
+Cards = 4c
+
+
+[river]
+Cards = Jd

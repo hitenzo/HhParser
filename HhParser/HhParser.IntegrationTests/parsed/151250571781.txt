@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = burhur 360,bondav68 420,MoneyCash100 720
+
+[preflop]
+Hand = 8h, 6s
+Actions = bondav68 S, MoneyCash100 B, burhur can FCKRA do C, bondav68 F, MoneyCash100 F
+
+
+
+
+

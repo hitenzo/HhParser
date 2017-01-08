@@ -1,0 +1,17 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Serega73 1240,PPH100 260
+
+[preflop]
+Hand = Qh, Qd
+Actions = Serega73 S, PPH100 B, Serega73 can FCKRA do C, PPH100 F
+
+
+
+
+

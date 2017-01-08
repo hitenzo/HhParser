@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = mrmasques 880,Signifikant 620
+
+[preflop]
+Hand = Jh, 4s
+Actions = Signifikant S, mrmasques B, Signifikant can FCKRA do C, mrmasques C
+
+[flop]
+Cards = 4h, 3h, 8c
+
+
+[turn]
+Cards = 6h
+
+
+[river]
+Cards = 5c

@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = terremoto181 510,vovanpik 660,Rafaaellopes 330
+
+[preflop]
+Hand = 7s, 6s
+Actions = vovanpik S, Rafaaellopes B, terremoto181 can FCKRA do C, vovanpik C, Rafaaellopes F
+
+[flop]
+Cards = 2d, Jc, 9h
+Actions = vovanpik B, terremoto181 can FCKRA do C
+
+[turn]
+Cards = 5s
+Actions = vovanpik B, terremoto181 can FCKRA do C
+
+[river]
+Cards = 9c
+Actions = vovanpik B, terremoto181 can FCKRA do C

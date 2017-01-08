@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = TAIM_OUT_2 867,Farcostin 633
+
+[preflop]
+Hand = 7s, 4c
+Actions = Farcostin S, TAIM_OUT_2 B, Farcostin can FCKRA do C, TAIM_OUT_2 K
+
+[flop]
+Cards = 2s, Ad, 6h
+Actions = TAIM_OUT_2 K, Farcostin can FCKRA do C, TAIM_OUT_2 F
+
+
+

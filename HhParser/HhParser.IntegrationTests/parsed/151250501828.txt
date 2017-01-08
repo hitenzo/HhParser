@@ -1,0 +1,17 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = REALACID 372,arhiar 1128
+
+[preflop]
+Hand = Td, Ah
+Actions = arhiar S, REALACID B, arhiar can FCKRA do C, REALACID R, arhiar can FCKRA do C
+
+
+
+
+

@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Nhánho 620,varde66 570,romeo69181 310
+
+[preflop]
+Hand = Jc, 4d
+Actions = romeo69181 S, Nhánho B, varde66 can FCKRA do C, romeo69181 F
+
+
+
+
+

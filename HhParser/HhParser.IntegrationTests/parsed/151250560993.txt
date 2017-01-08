@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = FlushStalker 320,Dan_Champ 1180
+
+[preflop]
+Hand = 5h, Qs
+Actions = Dan_Champ S, FlushStalker B, Dan_Champ can FCKRA do C, FlushStalker C
+
+[flop]
+Cards = 5d, 4d, 2s
+
+
+[turn]
+Cards = 4c
+
+
+[river]
+Cards = Qh

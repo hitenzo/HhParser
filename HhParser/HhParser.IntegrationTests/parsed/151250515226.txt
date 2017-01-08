@@ -1,0 +1,23 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = lfreerolls 375,J.M.L.M.26 910,DarkVarvar 215
+
+[preflop]
+Hand = 5h, 4h
+Actions = Dark Varvar S, lfreerolls B, J.M.L.M.26 can FCKRA do C, DarkVarvar R, lfreerolls C
+
+[flop]
+Cards = 7h, 7d, Jh
+
+
+[turn]
+Cards = 5s
+
+
+[river]
+Cards = Qd

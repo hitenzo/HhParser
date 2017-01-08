@@ -1,0 +1,23 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = REALACID 925,jefinitely2 314,lucasalgadob 261
+
+[preflop]
+Hand = Td, Qd
+Actions = REALACID S, jefinitely2 B, lucasalgadob can FCKRA do C, REALACID C, jefinitely2 K
+
+[flop]
+Cards = Ac, 6h, 3s
+Actions = REALACID K, jefinitely2 B, REALACID C
+
+[turn]
+Cards = Ts
+Actions = REALACID K, jefinitely2 B, REALACID C
+
+[river]
+Cards = Jc

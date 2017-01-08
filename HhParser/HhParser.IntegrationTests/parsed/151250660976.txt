@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = inception.00 790,antonnovitz9 710
+
+[preflop]
+Hand = 9d, 9c
+Actions = antonnovitz9 S, inception.00 B, antonnovitz9 can FCKRA do C, inception.00 R, antonnovitz9 can FCKRA do C
+
+[flop]
+Cards = Ah, 6c, 6h
+
+
+[turn]
+Cards = 2h
+
+
+[river]
+Cards = 7s

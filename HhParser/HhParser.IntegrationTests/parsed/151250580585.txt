@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = durptydoo 500,Pengene.TAK 520,rpl1973 480
+
+[preflop]
+Hand = Kh, 2s
+Actions = rpl1973 S, durpty doo B, Pengene.TAK can FCKRA do C, rpl1973 F
+
+
+
+
+

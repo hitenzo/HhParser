@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = cfuhkcekb 1040,xXmInIfAnTxx 460
+
+[preflop]
+Hand = 3s, 2s
+Actions = cfuhkcekb S, xXmInIfAnTxx B, cfuhkcekb can FCKRA do C, xXmInIfAnTxx C
+
+[flop]
+Cards = Qh, Qd, 9d
+Actions = xXmInIfAnTxx K, cfuhkcekb can FCKRA do C, xXmInIfAnTxx C
+
+[turn]
+Cards = Ks
+Actions = xXmInIfAnTxx K, cfuhkcekb can FCKRA do C, xXmInIfAnTxx C
+
+[river]
+Cards = Td
+Actions = xXmInIfAnTxx K, cfuhkcekb can FCKRA do C

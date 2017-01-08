@@ -1,0 +1,17 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = suckmynutsz 1303,RosyMonaLisa 197
+
+[preflop]
+Hand = 7h, 5d
+Actions = RosyMonaLisa S, suckmynutsz B, RosyMonaLisa can FCKRA do C
+
+
+
+
+

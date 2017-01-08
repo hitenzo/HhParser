@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = attila121 620,gulapokaer 380,3gabriel 500
+
+[preflop]
+Hand = Qc, 2h
+Actions = attila121 S, gulapokaer B, 3gabriel R, attila121 C, gulapokaer C
+
+[flop]
+Cards = 5d, 3c, 2h
+Actions = attila121 K, gulapokaer K, 3gabriel K
+
+[turn]
+Cards = 5s
+Actions = attila121 K, gulapokaer B, 3gabriel C, attila121 F
+
+[river]
+Cards = Th
+Actions = gulapokaer K, 3gabriel B, gulapokaer C

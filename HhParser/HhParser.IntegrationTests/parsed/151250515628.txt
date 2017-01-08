@@ -1,0 +1,17 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = kail21 980,fatmamas 520
+
+[preflop]
+Hand = Ad, 3h
+Actions = kail21 S, fat mamas B, kail21 can FCKRA do C, fatmamas R, kail21 can FCKRA do C
+
+
+
+
+

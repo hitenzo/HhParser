@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = 69fever69 590,luckychizzz 910
+
+[preflop]
+Hand = 8s, 7d
+Actions = 69fever69 S, luckychizzz B, 69fever69 can FCKRA do C, luckychizzz R, 69fever69 can FCKRA do C
+
+[flop]
+Cards = Jc, 2s, 5s
+Actions = luckychizzz B, 69fever69 can FCKRA do C
+
+
+

@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Gunner296 500,Domitrov367 500,kingofrosy 500
+
+[preflop]
+Hand = 3h, 9h
+Actions = Domitrov367 S, kingofrosy B, Gunner296 R, Domitrov367 C, kingofrosy R, Gunner296 R, Domitrov367 C, kingofrosy C
+
+[flop]
+Cards = 5c, Kc, 3h
+
+
+[turn]
+Cards = Qs
+
+
+[river]
+Cards = 2d

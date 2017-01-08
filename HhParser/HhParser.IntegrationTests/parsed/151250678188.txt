@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Kissofdeat96 1320,casa4444 180
+
+[preflop]
+Hand = 3s, Ts
+Actions = casa4444 S, Kissofdeat96 B, casa4444 can FCKRA do C, Kissofdeat96 F
+
+
+
+
+

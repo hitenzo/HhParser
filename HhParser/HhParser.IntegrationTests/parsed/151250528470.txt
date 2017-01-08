@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = thetammy 500,wrbwillian 500,cashiscrane 500
+
+[preflop]
+Hand = Kh, 7c
+Actions = wrbwillian S, cashiscrane B, thetammy can FCKRA do C, wrbwillian F, cashiscrane F
+
+
+
+
+

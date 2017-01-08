@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = REALACID 500,tumblesbrutu 440,auspro700 560
+
+[preflop]
+Hand = Jh, 9c
+Actions = auspro700 S, REALACID B, tumblesbrutu can FCKRA do C, auspro700 F, REALACID F
+
+
+
+
+

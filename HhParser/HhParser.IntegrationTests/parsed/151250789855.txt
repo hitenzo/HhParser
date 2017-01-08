@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Cummins4815 190,F.Khasanov 710,PURCENA220 600
+
+[preflop]
+Hand = Ad, 7d
+Actions = Cummins4815 S, F.Khasanov B, PURCENA220 can FCKRA do C, Cummins4815 R, F.Khasanov F
+
+
+
+
+

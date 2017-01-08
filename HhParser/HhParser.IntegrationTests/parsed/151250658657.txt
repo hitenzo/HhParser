@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = vasssoto 500,alemaum1992 500,DyPeMaP 500
+
+[preflop]
+Hand = Qh, 5d
+Actions = alemaum1992 S, DyPeMaP B, vasssoto can FCKRA do C, alemaum1992 R, DyPeMaP R, alemaum1992 C
+
+[flop]
+Cards = 6h, Qd, 9c
+Actions = alemaum1992 K, DyPeMaP B, alemaum1992 C
+
+[turn]
+Cards = Th
+
+
+[river]
+Cards = 8c

@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = vasssoto 780,wento1 520,perkunova 200
+
+[preflop]
+Hand = 4s, Kc
+Actions = perkunova S, vasssoto B, wento1 can FCKRA do C, perkunova F, vasssoto K
+
+[flop]
+Cards = Qc, 8h, 6h
+Actions = vasssoto B, wento1 can FCKRA do C
+
+
+

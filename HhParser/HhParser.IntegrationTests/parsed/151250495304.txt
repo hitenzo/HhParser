@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = panqueque123 470,Rubao007 480,spanchx 550
+
+[preflop]
+Hand = Qc, Jc
+Actions = Rubao 007 S, spanchx B, panqueque123 can FCKRA do C, Rubao007 C, spanchx C
+
+[flop]
+Cards = Tc, 7d, 9d
+Actions = Rubao007 B, spanchx C, panqueque123 can FCKRA do C, Rubao007 F, spanchx C
+
+[turn]
+Cards = 8c
+
+
+[river]
+Cards = 7c

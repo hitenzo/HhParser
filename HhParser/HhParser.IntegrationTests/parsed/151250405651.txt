@@ -1,0 +1,24 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = kszwenk 1025,Kreuz10 475
+
+[preflop]
+Hand = 6d, Td
+Actions = kszwenk S, Kreuz10 B, kszwenk can FCKRA do C, Kreuz10 C
+
+[flop]
+Cards = Qs, 2h, Kc
+Actions = Kreuz10 K, kszwenk can FCKRA do C
+
+[turn]
+Cards = 7d
+Actions = Kreuz10 K, kszwenk can FCKRA do C
+
+[river]
+Cards = 5h
+Actions = Kreuz10 B, kszwenk can FCKRA do C

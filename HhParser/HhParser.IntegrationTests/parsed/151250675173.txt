@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = amazingah 410,kay69111 460,elmazita83 630
+
+[preflop]
+Hand = 8c, Kh
+Actions = amazingah S, kay69111 B, elmazita83 can FCKRA do C, amazingah R, kay69111 F
+
+
+
+
+

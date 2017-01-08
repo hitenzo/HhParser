@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = spanchx 470,romeo69181 540,laguna19 490
+
+[preflop]
+Hand = Ac, 8s
+Actions = laguna19 S, spanchx B, romeo69181 can FCKRA do C, laguna19 C, spanchx K
+
+[flop]
+Cards = 9d, 9h, Ks
+Actions = laguna19 B, spanchx F
+
+
+

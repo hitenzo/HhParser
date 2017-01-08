@@ -1,0 +1,21 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = casa4444 500,REALACID 500,Afguevara71 500
+
+[preflop]
+Hand = 7h, 2d
+Actions = REALACID S, Afguevara71 B, casa4444 can FCKRA do C, REALACID C, Afguevara71 C
+
+[flop]
+Cards = 6c, 7h, 2s
+Actions = REALACID K, Afguevara71 K, casa4444 can FCKRA do C
+
+[turn]
+Cards = Tc
+Actions = REALACID K, Afguevara71 B, casa4444 can FCKRA do C, REALACID F
+

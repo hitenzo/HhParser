@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = fusfus66 500,Asif232 520,vilnis76 480
+
+[preflop]
+Hand = Ad, 7d
+Actions = vilnis76 S, fusfus66 B, Asif232 can FCKRA do C, vilnis76 C, fusfus66 C
+
+[flop]
+Cards = 5s, Kc, 9c
+Actions = vilnis76 K, fusfus66 B, Asif232 can FCKRA do C, vilnis76 F
+
+[turn]
+Cards = Ts
+Actions = fusfus66 B, Asif232 can FCKRA do C
+
+[river]
+Cards = 9s

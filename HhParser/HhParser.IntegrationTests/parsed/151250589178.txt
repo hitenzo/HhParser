@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = omm20077 500,Soffie86 575,rpl1973 425
+
+[preflop]
+Hand = 6d, 5h
+Actions = rpl1973 S, omm20077 B, Soffie86 can FCKRA do C, rpl1973 F
+
+
+
+
+

@@ -1,0 +1,23 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = NexttimeFish 160,haje031249 1340
+
+[preflop]
+Hand = 7d, 8s
+Actions = NexttimeFish S, haje031249 B, NexttimeFish can FCKRA do C, haje031249 C
+
+[flop]
+Cards = 7c, 8d, 9s
+
+
+[turn]
+Cards = 3c
+
+
+[river]
+Cards = As

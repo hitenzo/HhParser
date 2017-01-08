@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ChesterSM 410,romeo69181 570,suade54 520
+
+[preflop]
+Hand = Ac, 3s
+Actions = suade54 S, ChesterSM B, romeo69181 can FCKRA do C, suade54 F
+
+
+
+
+

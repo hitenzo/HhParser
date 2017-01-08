@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Dhagstedt 480,shebez880 610,Kissofdeat96 410
+
+[preflop]
+Hand = Ad, 6c
+Actions = Dhagstedt S, shebez880 B, Kissofdeat96 can FCKRA do C, Dhagstedt F, shebez880 K
+
+[flop]
+Cards = Qh, 5d, 5h
+Actions = shebez880 K, Kissofdeat96 can FCKRA do C
+
+[turn]
+Cards = 4c
+Actions = shebez880 K, Kissofdeat96 can FCKRA do C
+
+[river]
+Cards = 7d
+Actions = shebez880 B, Kissofdeat96 can FCKRA do C, shebez880 R, Kissofdeat96 can FCKRA do C

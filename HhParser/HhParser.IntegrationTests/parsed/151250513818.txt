@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = pia_monic 750,Crischucky 750
+
+[preflop]
+Hand = 9d, 6s
+Actions = pia_monic S, Cris chucky B, pia_monic can FCKRA do C, Crischucky R, pia_monic can FCKRA do C
+
+
+
+
+

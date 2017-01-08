@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = cfuhkcekb 250,LucianoLindo 1250
+
+[preflop]
+Hand = Ad, 3h
+Actions = LucianoLindo S, cfuhkcekb B, LucianoLindo can FCKRA do C
+
+
+
+
+

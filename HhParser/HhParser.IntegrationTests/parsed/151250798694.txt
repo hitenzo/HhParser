@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Kissofdeat96 500,freemaNBM 500,purasaude 500
+
+[preflop]
+Hand = 3d, 4s
+Actions = freemaNBM S, purasaude B, Kissofdeat96 can FCKRA do C, freemaNBM F, purasaude R, Kissofdeat96 can FCKRA do C
+
+[flop]
+Cards = Th, Ac, Ks
+Actions = purasaude B, Kissofdeat96 can FCKRA do C
+
+
+

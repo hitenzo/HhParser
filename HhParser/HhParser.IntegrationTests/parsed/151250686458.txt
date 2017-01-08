@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Kissofdeat96 1060,casa4444 440
+
+[preflop]
+Hand = 6d, 3d
+Actions = Kissofdeat96 S, casa4444 B, Kissofdeat96 can FCKRA do C, casa4444 K
+
+[flop]
+Cards = 5h, 5c, Ah
+Actions = casa4444 K, Kissofdeat96 can FCKRA do C
+
+[turn]
+Cards = 2d
+Actions = casa4444 K, Kissofdeat96 can FCKRA do C
+
+[river]
+Cards = Ks
+Actions = casa4444 B, Kissofdeat96 can FCKRA do C

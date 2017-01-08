@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = pighinD 800,xgaz1986 450,ChokeAh 250
+
+[preflop]
+Hand = 3c, 6c
+Actions = pighinD S, xgaz1986 B, ChokeAh F, pighinD F
+
+
+
+
+

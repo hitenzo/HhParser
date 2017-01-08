@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Rafaaellopes 830,renafalu 670
+
+[preflop]
+Hand = 6h, Kh
+Actions = Rafaaellopes S, renafalu B, Rafaaellopes can FCKRA do C, renafalu R, Rafaaellopes can FCKRA do C
+
+[flop]
+Cards = Ad, Kd, 3s
+Actions = renafalu B, Rafaaellopes can FCKRA do C
+
+
+

@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = R.00707 480,cokostarts 490,ISTEPÔ 530
+
+[preflop]
+Hand = Qc, 9h
+Actions = ISTEPÔ S, R.00707 B, cokostarts can FCKRA do C, ISTEPÔ F
+
+
+
+
+

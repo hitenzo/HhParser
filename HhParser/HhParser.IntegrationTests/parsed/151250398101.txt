@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = antonnovitz9 90,henrybuilt06 490,hustler10764 920
+
+[preflop]
+Hand = 5h, 4h
+Actions = henrybuilt06 S, hustler10764 B, antonnovitz9 can FCKRA do C, henrybuilt06 F, hustler10764 C
+
+[flop]
+Cards = 6c, 2h, 9c
+
+
+[turn]
+Cards = Th
+
+
+[river]
+Cards = Ac

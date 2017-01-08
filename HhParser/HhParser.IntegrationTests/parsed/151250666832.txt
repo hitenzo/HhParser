@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = vasssoto 500,DyPeMaP 1000
+
+[preflop]
+Hand = 7d, Ks
+Actions = DyPeMaP S, vasssoto B, DyPeMaP can FCKRA do C
+
+
+
+
+

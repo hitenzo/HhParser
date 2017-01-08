@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = davemns1989 580,dunkndoniner 400,ZingierGolf 520
+
+[preflop]
+Hand = 5h, Ts
+Actions = davemns1989 S, dunkndoniner B, ZingierGolf can FCKRA do C, davemns1989 F, dunkndoniner C
+
+[flop]
+Cards = As, Th, 9d
+Actions = dunkndoniner K, ZingierGolf can FCKRA do C, dunkndoniner F
+
+
+

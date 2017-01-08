@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Nablo87 625,Edwin_1551 875
+
+[preflop]
+Hand = 3d, Qd
+Actions = Nablo87 S, Edwin_1551 B, Nablo87 can FCKRA do C, Edwin_1551 K
+
+[flop]
+Cards = Jc, Qs, 6c
+Actions = Edwin_1551 B, Nablo87 can FCKRA do C
+
+
+

@@ -1,0 +1,23 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Éliott001 209,NadargeoTNK 1291
+
+[preflop]
+Hand = 4d, 9c
+Actions = Éliott001 S, NadargeoTNK B, Éliott001 can FCKRA do C, NadargeoTNK C
+
+[flop]
+Cards = As, 4s, 9d
+
+
+[turn]
+Cards = Ts
+
+
+[river]
+Cards = 5c

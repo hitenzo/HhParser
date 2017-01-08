@@ -1,0 +1,21 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ChesterSM 510,incicco 510,RICHARDGOME 480
+
+[preflop]
+Hand = 6h, Kh
+Actions = incicco S, RICHARD GOME B, ChesterSM can FCKRA do C, incicco F, RICHARDGOME C
+
+[flop]
+Cards = 5s, Kh, 4c
+Actions = RICHARDGOME K, ChesterSM can FCKRA do C
+
+[turn]
+Cards = Ac
+Actions = RICHARDGOME K, ChesterSM can FCKRA do C, RICHARDGOME F
+

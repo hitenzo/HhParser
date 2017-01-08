@@ -1,0 +1,19 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = vasjaja 875,RooMarc 625
+
+[preflop]
+Hand = Ah, 9h
+Actions = vasjaja S, RooMarc B, vasjaja can FCKRA do C, RooMarc K
+
+[flop]
+Cards = Jh, 6d, Jc
+Actions = RooMarc K, vasjaja can FCKRA do C, RooMarc F
+
+
+

@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Dan_Champ 475,kay69111 450,brunolucci 575
+
+[preflop]
+Hand = Ah, 6c
+Actions = Dan_Champ S, kay69111 B, brunolucci can FCKRA do C, Dan_Champ R, kay69111 C
+
+[flop]
+Cards = 3h, Jd, 8c
+Actions = Dan_Champ B, kay69111 F
+
+
+

@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Vardan0077 500,benja121 500,vvk15 500
+
+[preflop]
+Hand = 4s, 2c
+Actions = benja121 S, vvk15 B, Vardan0077 can FCKRA do C, benja121 R, vvk15 F
+
+
+
+
+

@@ -1,0 +1,19 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Battmeister 805,Eagle88888 695
+
+[preflop]
+Hand = Kh, 2s
+Actions = Eagle88888 S, Battmeister B, Eagle88888 can FCKRA do C, Battmeister K
+
+[flop]
+Cards = 8h, Td, 2s
+Actions = Battmeister K, Eagle88888 can FCKRA do C, Battmeister R, Eagle88888 can FCKRA do C
+
+
+

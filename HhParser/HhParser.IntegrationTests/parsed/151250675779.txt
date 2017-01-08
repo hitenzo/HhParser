@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = tala344 1005,cokostarts 260,Schnürschuh4 235
+
+[preflop]
+Hand = 6h, Td
+Actions = Schnürschuh4 S, tala344 B, cokostarts can FCKRA do C, Schnürschuh4 R, tala344 F
+
+
+
+
+

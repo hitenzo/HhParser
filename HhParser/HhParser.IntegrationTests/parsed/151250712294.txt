@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = giofernand67 440,oufoux08 570,luirian_1989 490
+
+[preflop]
+Hand = Tc, 6c
+Actions = giofernand67 S, oufoux08 B, luirian_1989 can FCKRA do C, giofernand67 R, oufoux08 F
+
+
+
+
+

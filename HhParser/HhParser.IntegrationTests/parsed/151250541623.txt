@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = mprincip99 530,lokofun01 630,Dan_Champ 340
+
+[preflop]
+Hand = 8d, 6s
+Actions = lokofun01 S, Dan_Champ B, mprincip99 can FCKRA do C, lokofun01 F
+
+
+
+
+

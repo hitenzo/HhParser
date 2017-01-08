@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Nablo87 230,A.Y.S.H.IO 260,Edwin_1551 1010
+
+[preflop]
+Hand = 4c, 8d
+Actions = Edwin_1551 S, Nablo87 B, A.Y.S.H.IO F, Edwin_1551 C, Nablo87 R, Edwin_1551 C
+
+[flop]
+Cards = Kh, Jc, Qc
+Actions = Edwin_1551 K, Nablo87 B, Edwin_1551 F
+
+
+

@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = tojiuk300 460,Nablo87 940,fiReTemper 100
+
+[preflop]
+Hand = Qs, Ah
+Actions = tojiuk300 S, Nablo87 B, fiReTemper can FCKRA do C, tojiuk300 R, Nablo87 R, tojiuk300 R, Nablo87 C
+
+[flop]
+Cards = 3h, Qs, Ac
+
+
+[turn]
+Cards = 7s
+
+
+[river]
+Cards = 8d

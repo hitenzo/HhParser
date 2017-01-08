@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = elmazita83 360,PorkJudoChop 1140
+
+[preflop]
+Hand = Jh, 7h
+Actions = PorkJudoChop S, elmazita83 B, PorkJudoChop can FCKRA do C
+
+
+
+
+

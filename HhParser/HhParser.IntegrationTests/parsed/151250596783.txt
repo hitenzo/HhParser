@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = casa4444 1085,REALACID 415
+
+[preflop]
+Hand = 5d, 5h
+Actions = casa4444 S, REALACID B, casa4444 can FCKRA do C, REALACID C
+
+[flop]
+Cards = Ah, Tc, 6s
+Actions = REALACID K, casa4444 can FCKRA do C, REALACID F
+
+
+

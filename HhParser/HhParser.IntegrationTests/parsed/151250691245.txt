@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Xandecaixa 400,vasssoto 1100
+
+[preflop]
+Hand = 5d, 6c
+Actions = vasssoto S, Xandecaixa B, vasssoto can FCKRA do C, Xandecaixa C
+
+[flop]
+Cards = 7d, 2c, Ac
+Actions = Xandecaixa B, vasssoto can FCKRA do C
+
+
+

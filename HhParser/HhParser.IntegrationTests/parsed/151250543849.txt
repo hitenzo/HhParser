@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = AndryKamcha 1030,leonguevarra 470
+
+[preflop]
+Hand = Kd, 5c
+Actions = leonguevarra S, AndryKamcha B, leonguevarra can FCKRA do C
+
+
+
+
+

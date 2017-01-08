@@ -1,0 +1,17 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = AbsentMind13 380,templargio 1120
+
+[preflop]
+Hand = 5s, 9d
+Actions = templargio S, AbsentMind13 B, templargio can FCKRA do C, AbsentMind13 F
+
+
+
+
+

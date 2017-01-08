@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = jdaddario 500,RIMROK 500,bulapannn 500
+
+[preflop]
+Hand = Ts, 7s
+Actions = RIMROK S, bulapannn B, jdaddario can FCKRA do C, RIMROK F
+
+
+
+
+

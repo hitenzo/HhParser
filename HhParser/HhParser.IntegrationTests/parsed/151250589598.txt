@@ -1,0 +1,24 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = khamchiev 700,fiReTemper 800
+
+[preflop]
+Hand = 8s, 4c
+Actions = fiReTemper S, khamchiev B, fiReTemper can FCKRA do C, khamchiev C
+
+[flop]
+Cards = 9h, 4h, 9s
+Actions = khamchiev K, fiReTemper can FCKRA do C, khamchiev C
+
+[turn]
+Cards = 2d
+Actions = khamchiev B, fiReTemper can FCKRA do C
+
+[river]
+Cards = Ks
+Actions = khamchiev B, fiReTemper can FCKRA do C

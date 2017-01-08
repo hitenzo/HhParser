@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = qwert966 1060,b_to21 440
+
+[preflop]
+Hand = Qs, 3h
+Actions = qwert966 S, b_to21 B, qwert966 can FCKRA do C
+
+
+
+
+

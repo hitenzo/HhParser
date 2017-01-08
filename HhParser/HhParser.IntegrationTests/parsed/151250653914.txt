@@ -1,0 +1,21 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = hustler10764 635,DokTopJIuBcu 865
+
+[preflop]
+Hand = 5s, Ks
+Actions = DokTopJIuBcu S, hustler10764 B, DokTopJIuBcu can FCKRA do C, hustler10764 K
+
+[flop]
+Cards = 4d, 8d, Kh
+Actions = hustler10764 K, DokTopJIuBcu can FCKRA do C
+
+[turn]
+Cards = Js
+Actions = hustler10764 B, DokTopJIuBcu can FCKRA do C
+

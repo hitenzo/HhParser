@@ -1,0 +1,23 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = dyng247 1315,Acex0fSpades 185
+
+[preflop]
+Hand = Ts, Qd
+Actions = dyng247 S, Acex0fSpades B, dyng247 can FCKRA do C, Acex0fSpades C
+
+[flop]
+Cards = Ah, Jc, Qc
+
+
+[turn]
+Cards = 4h
+
+
+[river]
+Cards = 8h

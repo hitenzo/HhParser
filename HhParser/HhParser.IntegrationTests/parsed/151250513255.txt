@@ -1,0 +1,24 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Nick_Lamp 1088,S_Dem_kreW 412
+
+[preflop]
+Hand = 7h, 8s
+Actions = Nick_Lamp S, S_Dem_kreW B, Nick_Lamp can FCKRA do C, S_Dem_kreW K
+
+[flop]
+Cards = 3c, 4h, 5c
+Actions = S_Dem_kreW K, Nick_Lamp can FCKRA do C
+
+[turn]
+Cards = Th
+Actions = S_Dem_kreW B, Nick_Lamp can FCKRA do C
+
+[river]
+Cards = 4c
+Actions = S_Dem_kreW B, Nick_Lamp can FCKRA do C

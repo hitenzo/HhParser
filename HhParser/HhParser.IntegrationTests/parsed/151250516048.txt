@@ -1,0 +1,24 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ISTEPÔ 995,mitridart 505
+
+[preflop]
+Hand = Ad, 3h
+Actions = mitridart S, ISTEPÔ B, mitridart can FCKRA do C, ISTEPÔ K
+
+[flop]
+Cards = 5s, As, Ac
+Actions = ISTEPÔ K, mitridart can FCKRA do C
+
+[turn]
+Cards = Td
+Actions = ISTEPÔ K, mitridart can FCKRA do C
+
+[river]
+Cards = 8s
+Actions = ISTEPÔ K, mitridart can FCKRA do C

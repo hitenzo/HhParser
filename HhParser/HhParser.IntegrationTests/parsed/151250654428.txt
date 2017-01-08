@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = pighinD 500,xgaz1986 500,ChokeAh 500
+
+[preflop]
+Hand = 4h, 2c
+Actions = xgaz1986 S, Choke Ah B, pighinD can FCKRA do C, xgaz1986 F, ChokeAh R, pighinD can FCKRA do C
+
+[flop]
+Cards = 2s, 7s, Qc
+Actions = ChokeAh K, pighinD can FCKRA do C
+
+[turn]
+Cards = 5s
+Actions = ChokeAh B, pighinD can FCKRA do C, ChokeAh C
+
+[river]
+Cards = 4h
+Actions = ChokeAh K, pighinD can FCKRA do C, ChokeAh F

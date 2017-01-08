@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = james5085 210,chinoalbo91 630,bink41 660
+
+[preflop]
+Hand = Ac, 5d
+Actions = james5085 S, chinoalbo91 B, bink41 can FCKRA do C, james5085 C, chinoalbo91 K
+
+[flop]
+Cards = 2h, 4h, 5d
+Actions = james5085 K, chinoalbo91 K
+
+[turn]
+Cards = 4s
+Actions = james5085 K, chinoalbo91 B, james5085 C
+
+[river]
+Cards = 7h
+Actions = james5085 K, chinoalbo91 K

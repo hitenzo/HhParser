@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = bossman0737 470,acurakevin 640,kissmyace31 390
+
+[preflop]
+Hand = Qh, 5d
+Actions = acurakevin S, kissmyace31 B, bossman0737 can FCKRA do C, acurakevin F, kissmyace31 R, bossman0737 can FCKRA do C
+
+
+
+
+

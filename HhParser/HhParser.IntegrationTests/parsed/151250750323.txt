@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Cummins4815 500,F.Khasanov 500,PURCENA220 500
+
+[preflop]
+Hand = Jd, Kc
+Actions = F.Khasanov S, PURCENA220 B, Cummins4815 can FCKRA do C, F.Khasanov F, PURCENA220 C
+
+[flop]
+Cards = 8s, 3d, Qs
+Actions = PURCENA220 K, Cummins4815 can FCKRA do C
+
+[turn]
+Cards = 4h
+Actions = PURCENA220 K, Cummins4815 can FCKRA do C, PURCENA220 C
+
+[river]
+Cards = Qc
+Actions = PURCENA220 B, Cummins4815 can FCKRA do C

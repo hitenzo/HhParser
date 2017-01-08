@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = boogymannnnn 980,rapman2000 520
+
+[preflop]
+Hand = Ad, 6s
+Actions = boogymannnnn S, rapman2000 B, boogymannnnn can FCKRA do C, rapman2000 R, boogymannnnn can FCKRA do C
+
+[flop]
+Cards = 4c, 9s, 5h
+
+
+[turn]
+Cards = Kh
+
+
+[river]
+Cards = 2s

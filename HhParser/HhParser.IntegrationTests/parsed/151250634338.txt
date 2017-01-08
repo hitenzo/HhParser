@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ACEASASSIN 500,fer_1441 500,KAARL666 500
+
+[preflop]
+Hand = 3d, Ts
+Actions = fer_1441 S, KAARL666 B, ACEASASSIN can FCKRA do C, fer_1441 R, KAARL666 C
+
+[flop]
+Cards = Kc, Jh, Js
+Actions = fer_1441 B, KAARL666 F
+
+
+

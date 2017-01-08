@@ -1,0 +1,24 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = DevilAces99 640,Battmeister 595,atlfalcons88 265
+
+[preflop]
+Hand = 8h, 5h
+Actions = DevilAces99 S, Battmeister B, atlfalcons88 can FCKRA do C, DevilAces99 C, Battmeister K
+
+[flop]
+Cards = 3h, Th, 3d
+Actions = DevilAces99 K, Battmeister K, atlfalcons88 can FCKRA do C
+
+[turn]
+Cards = 2s
+Actions = DevilAces99 K, Battmeister K, atlfalcons88 can FCKRA do C
+
+[river]
+Cards = 7c
+Actions = DevilAces99 K, Battmeister K, atlfalcons88 can FCKRA do C

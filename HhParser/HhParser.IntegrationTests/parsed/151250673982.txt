@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = tesla197206 490,pulykakakas 375,antonnovitz9 635
+
+[preflop]
+Hand = Jd, Kc
+Actions = tesla197206 S, pulykakakas B, antonnovitz9 can FCKRA do C, tesla197206 R, pulykakakas F
+
+
+
+
+

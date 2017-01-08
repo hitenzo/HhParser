@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = CanadaG78 580,99luck1skill 920
+
+[preflop]
+Hand = Ks, 8h
+Actions = 99luck1skill S, CanadaG78 B, 99luck1skill can FCKRA do C, CanadaG78 C
+
+[flop]
+Cards = 4d, 7c, 7d
+Actions = CanadaG78 K, 99luck1skill can FCKRA do C, CanadaG78 C
+
+[turn]
+Cards = Js
+Actions = CanadaG78 K, 99luck1skill can FCKRA do C
+
+[river]
+Cards = 6h
+Actions = CanadaG78 B, 99luck1skill can FCKRA do C

@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = HotRod0327 70,kolxozNICK 920,dugrze 510
+
+[preflop]
+Hand = Jc, 9c
+Actions = dugrze S, HotRod0327 B, kolxozNICK can FCKRA do C, dugrze F
+
+
+
+
+

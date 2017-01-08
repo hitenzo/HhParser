@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Bricktop75 160,boogymannnnn 910,rapman2000 430
+
+[preflop]
+Hand = 3s, 5h
+Actions = boogymannnnn S, rapman2000 B, Bricktop75 can FCKRA do C, boogymannnnn F
+
+
+
+
+

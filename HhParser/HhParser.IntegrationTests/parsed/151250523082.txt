@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Nablo87 540,A.Y.S.H.IO 490,Edwin_1551 470
+
+[preflop]
+Hand = 7h, 2d
+Actions = Nablo87 S, A.Y.S.H.I O B, Edwin_1551 can FCKRA do C, Nablo87 R, A.Y.S.H.IO F
+
+
+
+
+

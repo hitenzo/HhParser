@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = REALACID 500,TerBear1980 500,05Ruy 500
+
+[preflop]
+Hand = 6c, Qs
+Actions = TerBear1980 S, 05 Ruy B, REALACID can FCKRA do C, TerBear1980 C, 05Ruy R, TerBear1980 C
+
+[flop]
+Cards = As, 3c, 2s
+
+
+[turn]
+Cards = 3d
+
+
+[river]
+Cards = Kh

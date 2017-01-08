@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = **Forrint** 960,Dan_Champ 540
+
+[preflop]
+Hand = 4h, Kd
+Actions = **Forrint** S, Dan_Champ B, **Forrint** can FCKRA do C, Dan_Champ F
+
+
+
+
+

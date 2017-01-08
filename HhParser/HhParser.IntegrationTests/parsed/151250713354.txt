@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = attila121 500,gulapokaer 460,3gabriel 540
+
+[preflop]
+Hand = 8d, 9h
+Actions = 3 gabriel S, attila121 B, gulapokaer can FCKRA do C, 3gabriel C, attila121 C
+
+[flop]
+Cards = 6h, 9d, 8s
+Actions = 3gabriel K, attila121 K, gulapokaer can FCKRA do C, 3gabriel F, attila121 R, gulapokaer can FCKRA do C
+
+
+

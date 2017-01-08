@@ -1,0 +1,23 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Canoeman2 110,Colosseus 290,Gillyshuffle 1100
+
+[preflop]
+Hand = 8c, Ts
+Actions = Gillyshuffle S, Canoeman2 B, Colosseus can FCKRA do C, Gillyshuffle C, Canoeman2 C
+
+[flop]
+Cards = 9c, 6d, Td
+Actions = Gillyshuffle B, Canoeman2 F, Colosseus can FCKRA do C, Gillyshuffle C
+
+[turn]
+Cards = 3s
+
+
+[river]
+Cards = Jd

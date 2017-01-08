@@ -1,0 +1,24 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Colosseus 360,Gillyshuffle 1140
+
+[preflop]
+Hand = 5h, Qd
+Actions = Colosseus S, Gillyshuffle B, Colosseus can FCKRA do C, Gillyshuffle C
+
+[flop]
+Cards = 9c, 7s, 4s
+Actions = Gillyshuffle K, Colosseus can FCKRA do C, Gillyshuffle C
+
+[turn]
+Cards = Jc
+Actions = Gillyshuffle K, Colosseus can FCKRA do C, Gillyshuffle C
+
+[river]
+Cards = Kc
+Actions = Gillyshuffle B, Colosseus can FCKRA do C

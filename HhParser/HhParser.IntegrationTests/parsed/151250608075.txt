@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = flexo911 600,hustler10764 450,DokTopJIuBcu 450
+
+[preflop]
+Hand = Kh, Jh
+Actions = flexo911 S, hustler10764 B, DokTopJIuBcu can FCKRA do C, flexo911 R, hustler10764 F, DokTopJIuBcu can FCKRA do C
+
+[flop]
+Cards = 6s, Qh, 7h
+Actions = flexo911 B, DokTopJIuBcu can FCKRA do C
+
+[turn]
+Cards = Td
+
+
+[river]
+Cards = Jc

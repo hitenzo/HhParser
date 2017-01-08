@@ -1,0 +1,23 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = huyag 1180,lefnjup 320
+
+[preflop]
+Hand = Ks, 8h
+Actions = huyag S, le fnjup B, huyag can FCKRA do C, lefnjup C
+
+[flop]
+Cards = 6d, 9s, 7h
+
+
+[turn]
+Cards = Ks
+
+
+[river]
+Cards = 3d

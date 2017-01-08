@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = AgnusDei1991 430,shnetinka 255,SEREGA4436 815
+
+[preflop]
+Hand = 5s, 9d
+Actions = SEREGA4436 S, AgnusDei1991 B, shnetinka can FCKRA do C, SEREGA4436 R, AgnusDei1991 F
+
+
+
+
+

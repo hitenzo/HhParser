@@ -1,0 +1,24 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Carl_CWB 835,haucemann 665
+
+[preflop]
+Hand = 6s, Js
+Actions = haucemann S, Carl_CWB B, haucemann can FCKRA do C, Carl_CWB K
+
+[flop]
+Cards = 2h, Kc, 2s
+Actions = Carl_CWB K, haucemann can FCKRA do C
+
+[turn]
+Cards = Jh
+Actions = Carl_CWB K, haucemann can FCKRA do C
+
+[river]
+Cards = 5c
+Actions = Carl_CWB K, haucemann can FCKRA do C

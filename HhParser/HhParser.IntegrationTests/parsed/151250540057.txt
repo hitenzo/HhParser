@@ -1,0 +1,17 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = tofque 765,tchopper69 735
+
+[preflop]
+Hand = Qc, Jc
+Actions = tofque S, tchopper69 B, tofque can FCKRA do C, tchopper69 F
+
+
+
+
+

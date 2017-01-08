@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = gulapokaer 570,Nikitos~3579 930
+
+[preflop]
+Hand = 5d, 6c
+Actions = Nikitos~3579 S, gulapokaer B, Nikitos~3579 can FCKRA do C, gulapokaer R, Nikitos~3579 can FCKRA do C
+
+[flop]
+Cards = 5d, Tc, Kc
+
+
+[turn]
+Cards = 5c
+
+
+[river]
+Cards = 9c

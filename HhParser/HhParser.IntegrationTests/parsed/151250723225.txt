@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = quite.n00b 490,chinoalbo91 1010
+
+[preflop]
+Hand = 8d, Qs
+Actions = quite.n00b S, chinoalbo91 B, quite.n00b can FCKRA do C, chinoalbo91 C
+
+[flop]
+Cards = 4c, 2s, 4d
+Actions = chinoalbo91 K, quite.n00b can FCKRA do C, chinoalbo91 F
+
+
+

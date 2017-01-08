@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = hieu102014 520,Mr_Defo2 570,globar 410
+
+[preflop]
+Hand = Kd, 8d
+Actions = Mr_Defo2 S, globar B, hieu102014 can FCKRA do C, Mr_Defo2 F, globar F
+
+
+
+
+

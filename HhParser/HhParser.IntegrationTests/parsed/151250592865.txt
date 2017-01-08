@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = poluektovDim 500,redproject 520,kolxozNICK 480
+
+[preflop]
+Hand = 8s, 4c
+Actions = kolxozNICK S, poluektovDim B, redproject can FCKRA do C, kolxozNICK F, poluektovDim F
+
+
+
+
+

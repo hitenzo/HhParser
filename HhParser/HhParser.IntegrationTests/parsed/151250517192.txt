@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = telmog 500,Xandecaixa 490,kay69111 510
+
+[preflop]
+Hand = 4h, 3h
+Actions = kay69111 S, telmog B, Xandecaixa can FCKRA do C, kay69111 C, telmog F
+
+[flop]
+Cards = 8c, 5d, 5s
+Actions = kay69111 K, Xandecaixa can FCKRA do C, kay69111 F
+
+
+

@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = petrafrank 1010,lilica333 490
+
+[preflop]
+Hand = 7s, Ah
+Actions = petrafrank S, lilica333 B, petrafrank can FCKRA do C, lilica333 C
+
+[flop]
+Cards = Qc, Ah, 3h
+Actions = lilica333 K, petrafrank can FCKRA do C, lilica333 F
+
+
+

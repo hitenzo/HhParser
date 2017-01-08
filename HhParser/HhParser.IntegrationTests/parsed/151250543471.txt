@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = incicco 240,badfish1986 1260
+
+[preflop]
+Hand = Js, 8s
+Actions = badfish1986 S, incicco B, badfish1986 can FCKRA do C, incicco C
+
+[flop]
+Cards = 8h, 7c, 6d
+
+
+[turn]
+Cards = Jc
+
+
+[river]
+Cards = As

@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = DarkVarvar 460,kapertje 570,AgnusDei1991 470
+
+[preflop]
+Hand = 8h, 5c
+Actions = Dark Varvar S, kapertje B, AgnusDei1991 can FCKRA do C, DarkVarvar C, kapertje C
+
+[flop]
+Cards = 5h, As, Qs
+Actions = DarkVarvar K, kapertje K, AgnusDei1991 can FCKRA do C, DarkVarvar C, kapertje F
+
+[turn]
+Cards = 2d
+Actions = DarkVarvar K, AgnusDei1991 can FCKRA do C, DarkVarvar C
+
+[river]
+Cards = 5s
+Actions = DarkVarvar B, AgnusDei1991 can FCKRA do C

@@ -1,0 +1,23 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = pia_monic 1268,Crischucky 232
+
+[preflop]
+Hand = Td, Qd
+Actions = Cris chucky S, pia_monic B, Crischucky R, pia_monic C
+
+[flop]
+Cards = Qc, Ad, 7d
+
+
+[turn]
+Cards = 9c
+
+
+[river]
+Cards = 3d

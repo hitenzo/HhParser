@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = rpl1973 1070,gnadenlos.nf 430
+
+[preflop]
+Hand = 6s, Qs
+Actions = gnadenlos.nf S, rpl1973 B, gnadenlos.nf can FCKRA do C
+
+
+
+
+

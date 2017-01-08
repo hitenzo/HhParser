@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = attila121 560,3gabriel 940
+
+[preflop]
+Hand = Jd, 3d
+Actions = 3 gabriel S, attila121 B, 3gabriel R, attila121 C
+
+[flop]
+Cards = 4c, 2h, 5s
+Actions = attila121 K, 3gabriel K
+
+[turn]
+Cards = 5c
+Actions = attila121 B, 3gabriel C
+
+[river]
+Cards = 8h
+Actions = attila121 B, 3gabriel R, attila121 C

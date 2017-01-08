@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = emerald2016 490,Rubao007 1010
+
+[preflop]
+Hand = 6h, Kh
+Actions = Rubao 007 S, emerald2016 B, Rubao007 R, emerald2016 F
+
+
+
+
+

@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = slajjs 1050,TerBear1980 450
+
+[preflop]
+Hand = Qc, Ts
+Actions = slajjs S, TerBear1980 B, slajjs can FCKRA do C
+
+
+
+
+

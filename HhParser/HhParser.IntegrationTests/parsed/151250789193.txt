@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = DrPipis 500,angelo67707 500,KBELLNZ 500
+
+[preflop]
+Hand = Ac, 5h
+Actions = angelo67707 S, KBELLNZ B, DrPipis can FCKRA do C, angelo67707 F, KBELLNZ F
+
+
+
+
+

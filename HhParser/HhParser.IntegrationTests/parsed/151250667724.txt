@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ME0WSKI 500,terremoto181 320,CanadaG78 680
+
+[preflop]
+Hand = Qh, 5d
+Actions = CanadaG78 S, ME0WSKI B, terremoto181 can FCKRA do C, CanadaG78 C, ME0WSKI R, terremoto181 can FCKRA do C, CanadaG78 F
+
+
+
+
+

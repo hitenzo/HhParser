@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = kingofrosy 480,oloscha 760,jorjaoangra 260
+
+[preflop]
+Hand = Jc, 2h
+Actions = jorjaoangra S, kingofrosy B, oloscha can FCKRA do C, jorjaoangra R, kingofrosy F, oloscha can FCKRA do C
+
+
+
+
+

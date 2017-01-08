@@ -1,0 +1,24 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = trolik82 970,b_to21 530
+
+[preflop]
+Hand = Jh, 9c
+Actions = trolik82 S, b_to21 B, trolik82 can FCKRA do C, b_to21 C
+
+[flop]
+Cards = 8d, Ac, Ts
+Actions = b_to21 K, trolik82 can FCKRA do C, b_to21 C
+
+[turn]
+Cards = 2c
+Actions = b_to21 K, trolik82 can FCKRA do C
+
+[river]
+Cards = 5c
+Actions = b_to21 B, trolik82 can FCKRA do C

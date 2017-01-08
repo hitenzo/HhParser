@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = duph50 975,ksei 525
+
+[preflop]
+Hand = 4c, Th
+Actions = duph50 S, ksei B, duph50 can FCKRA do C, ksei K
+
+[flop]
+Cards = 4d, 2s, 2c
+Actions = ksei K, duph50 can FCKRA do C, ksei F
+
+
+

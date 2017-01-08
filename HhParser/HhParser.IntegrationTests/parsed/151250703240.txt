@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = tigerkinhbac 510,mojo&eve 660,rensekarl 330
+
+[preflop]
+Hand = As, Qd
+Actions = mojo&eve S, rensekarl B, tigerkinhbac can FCKRA do C, mojo&eve C, rensekarl F
+
+[flop]
+Cards = 3d, 7d, Ks
+Actions = mojo&eve B, tigerkinhbac can FCKRA do C, mojo&eve F
+
+
+

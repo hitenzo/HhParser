@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = RosyMonaLisa 760,ouwebeuker 740
+
+[preflop]
+Hand = 8h, 6s
+Actions = RosyMonaLisa S, ouwe beuker B, RosyMonaLisa can FCKRA do C, ouwebeuker K
+
+[flop]
+Cards = 7c, 2c, As
+Actions = ouwebeuker K, RosyMonaLisa can FCKRA do C, ouwebeuker C
+
+[turn]
+Cards = 8s
+Actions = ouwebeuker K, RosyMonaLisa can FCKRA do C
+
+[river]
+Cards = Js
+Actions = ouwebeuker K, RosyMonaLisa can FCKRA do C

@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ndreyyndreyy 540,I'magir! 490,Jumeriah 470
+
+[preflop]
+Hand = 3h, 9d
+Actions = ndreyyndreyy S, I'm a gir! B, Jumeriah can FCKRA do C, ndreyyndreyy F, I'magir! F
+
+
+
+
+

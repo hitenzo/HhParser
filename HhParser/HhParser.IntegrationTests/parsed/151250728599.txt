@@ -1,0 +1,17 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = IveysPupi1 970,Nick_Lamp 530
+
+[preflop]
+Hand = As, Ts
+Actions = Nick_Lamp S, IveysPupi1 B, Nick_Lamp can FCKRA do C, IveysPupi1 F
+
+
+
+
+

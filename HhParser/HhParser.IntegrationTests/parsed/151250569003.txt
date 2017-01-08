@@ -1,0 +1,24 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = alvos84 610,vit29011985 890
+
+[preflop]
+Hand = 8d, Ad
+Actions = alvos84 S, vit29011985 B, alvos84 can FCKRA do C, vit29011985 K
+
+[flop]
+Cards = 2d, Kd, 3s
+Actions = vit29011985 K, alvos84 can FCKRA do C
+
+[turn]
+Cards = Th
+Actions = vit29011985 K, alvos84 can FCKRA do C
+
+[river]
+Cards = 2c
+Actions = vit29011985 B, alvos84 can FCKRA do C

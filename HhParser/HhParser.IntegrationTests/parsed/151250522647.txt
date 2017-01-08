@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = fiReTemper 595,washco90 905
+
+[preflop]
+Hand = Th, 9h
+Actions = fiReTemper S, washco90 B, fiReTemper can FCKRA do C, washco90 C
+
+[flop]
+Cards = Tc, 4s, 7s
+Actions = washco90 K, fiReTemper can FCKRA do C, washco90 R, fiReTemper can FCKRA do C
+
+
+

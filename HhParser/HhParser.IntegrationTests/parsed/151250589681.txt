@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = kolxozNICK 500,luchito90sl 500,luckystevek 500
+
+[preflop]
+Hand = 4c, 6s
+Actions = luchito90sl S, luckystevek B, kolxozNICK can FCKRA do C, luchito90sl F, luckystevek F
+
+
+
+
+

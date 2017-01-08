@@ -1,0 +1,19 @@
+[table]
+sblind = 40
+bblind = 80
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = fer_1441 630,moneysime 870
+
+[preflop]
+Hand = Jc, 3h
+Actions = moneysime S, fer_1441 B, moneysime can FCKRA do C, fer_1441 K
+
+[flop]
+Cards = 4h, 2h, Ac
+Actions = fer_1441 K, moneysime can FCKRA do C, fer_1441 F
+
+
+

@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ISTEPÔ 1060,Fichtenjager 440
+
+[preflop]
+Hand = 4s, 2c
+Actions = ISTEPÔ S, Fichtenjager B, ISTEPÔ can FCKRA do C, Fichtenjager K
+
+[flop]
+Cards = 6s, Js, 6d
+Actions = Fichtenjager K, ISTEPÔ can FCKRA do C
+
+[turn]
+Cards = 3s
+Actions = Fichtenjager K, ISTEPÔ can FCKRA do C, Fichtenjager C
+
+[river]
+Cards = 5s
+Actions = Fichtenjager K, ISTEPÔ can FCKRA do C

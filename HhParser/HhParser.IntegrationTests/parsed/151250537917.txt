@@ -1,0 +1,17 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = elchicosoto 800,bigjohn444 700
+
+[preflop]
+Hand = 7h, 2d
+Actions = elchicosoto S, bigjohn444 B, elchicosoto can FCKRA do C, bigjohn444 F
+
+
+
+
+

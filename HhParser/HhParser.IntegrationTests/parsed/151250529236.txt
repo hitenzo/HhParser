@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = PIOTREK11111 940,ChesterSM 560
+
+[preflop]
+Hand = Ac, 5d
+Actions = ChesterSM S, PIOTREK11111 B, ChesterSM can FCKRA do C, PIOTREK11111 K
+
+[flop]
+Cards = 9h, 9s, 7c
+Actions = PIOTREK11111 K, ChesterSM can FCKRA do C
+
+[turn]
+Cards = 2c
+Actions = PIOTREK11111 B, ChesterSM can FCKRA do C
+
+[river]
+Cards = 2d
+Actions = PIOTREK11111 B, ChesterSM can FCKRA do C

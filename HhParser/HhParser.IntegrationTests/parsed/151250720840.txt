@@ -1,0 +1,21 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = illyrian00 1030,atlfalcons88 470
+
+[preflop]
+Hand = Tc, 6c
+Actions = illyrian00 S, atlfalcons88 B, illyrian00 can FCKRA do C, atlfalcons88 K
+
+[flop]
+Cards = 6c, 9s, Ac
+Actions = atlfalcons88 K, illyrian00 can FCKRA do C
+
+[turn]
+Cards = Ad
+Actions = atlfalcons88 B, illyrian00 can FCKRA do C
+

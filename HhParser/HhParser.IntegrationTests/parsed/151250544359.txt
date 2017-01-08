@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ME0WSKI 420,bmmerm3701 620,diz_pom 460
+
+[preflop]
+Hand = 8h, As
+Actions = ME0WSKI S, bmmerm3701 B, diz_pom can FCKRA do C, ME0WSKI C, bmmerm3701 K
+
+[flop]
+Cards = 5d, 9d, 9h
+Actions = ME0WSKI B, bmmerm3701 C
+
+[turn]
+Cards = Js
+Actions = ME0WSKI B, bmmerm3701 C
+
+[river]
+Cards = 8h

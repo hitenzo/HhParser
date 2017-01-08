@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = qwert966 500,b_to21 500,genius939 500
+
+[preflop]
+Hand = 8s, 4s
+Actions = b_to21 S, genius939 B, qwert966 can FCKRA do C, b_to21 F, genius939 K
+
+[flop]
+Cards = 8d, Ah, 4c
+Actions = genius939 B, qwert966 can FCKRA do C
+
+
+

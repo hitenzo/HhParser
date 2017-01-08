@@ -1,0 +1,24 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Xandecaixa 591,kay69111 909
+
+[preflop]
+Hand = Jd, Kh
+Actions = Xandecaixa S, kay69111 B, Xandecaixa can FCKRA do C, kay69111 R, Xandecaixa can FCKRA do C
+
+[flop]
+Cards = Qd, 9h, Kd
+Actions = kay69111 K, Xandecaixa can FCKRA do C
+
+[turn]
+Cards = Qh
+Actions = kay69111 K, Xandecaixa can FCKRA do C
+
+[river]
+Cards = Jd
+Actions = kay69111 K, Xandecaixa can FCKRA do C, kay69111 F

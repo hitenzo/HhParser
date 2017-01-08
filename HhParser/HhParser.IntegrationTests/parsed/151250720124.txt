@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = MarkRampage 500,fiReTemper 500,cokostarts 500
+
+[preflop]
+Hand = 6h, 2c
+Actions = fiReTemper S, cokostarts B, MarkRampage can FCKRA do C, fiReTemper F, cokostarts F
+
+
+
+
+

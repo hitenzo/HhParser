@@ -1,0 +1,21 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Gunner296 500,Fichtenjager 500,james5085 500
+
+[preflop]
+Hand = 4h, 6s
+Actions = Fichtenjager S, james5085 B, Gunner296 R, Fichtenjager F, james5085 C
+
+[flop]
+Cards = 8d, 4d, Qd
+Actions = james5085 K, Gunner296 K
+
+[turn]
+Cards = 8h
+Actions = james5085 B, Gunner296 F
+

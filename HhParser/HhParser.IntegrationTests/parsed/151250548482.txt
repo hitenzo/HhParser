@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = kolxozNICK 1020,dugrze 480
+
+[preflop]
+Hand = 4c, 8d
+Actions = dugrze S, kolxozNICK B, dugrze can FCKRA do C, kolxozNICK R, dugrze can FCKRA do C
+
+
+
+
+

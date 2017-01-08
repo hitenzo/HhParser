@@ -1,0 +1,10 @@
+C:\.net projects\HhParser\HhParser\bin\Debug\HhParser.exe
+C:\.net projects\HhParser\HhParser\bin\Debug\HhParser.pdb
+C:\.net projects\HhParser\HhParser\obj\Debug\HhParser.exe
+C:\.net projects\HhParser\HhParser\obj\Debug\HhParser.pdb
+C:\projects\HhParser\HhParser\obj\Debug\HhParser.exe
+C:\projects\HhParser\HhParser\obj\Debug\HhParser.pdb
+C:\projects\HhParser\HhParser\bin\Debug\HhParser.exe
+C:\projects\HhParser\HhParser\bin\Debug\HhParser.pdb
+C:\projects\HhParser\HhParser\obj\Debug\HhParser.csprojResolveAssemblyReference.cache
+C:\.net projects\HhParser\HhParser\obj\Debug\HhParser.csprojResolveAssemblyReference.cache

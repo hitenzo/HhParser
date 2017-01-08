@@ -1,0 +1,19 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = kay69111 458,ImIndian12 1042
+
+[preflop]
+Hand = Tc, 3h
+Actions = kay69111 S, ImIndian12 B, kay69111 can FCKRA do C, ImIndian12 K
+
+[flop]
+Cards = 9h, 6c, Qs
+Actions = ImIndian12 B, kay69111 can FCKRA do C
+
+
+

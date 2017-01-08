@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Gunner296 460,Fichtenjager 490,james5085 550
+
+[preflop]
+Hand = Ah, Th
+Actions = james5085 S, Gunner 296 B, Fichtenjager can FCKRA do C, james5085 R, Gunner296 R, james5085 R, Gunner296 C
+
+[flop]
+Cards = 9d, 6c, 4d
+
+
+[turn]
+Cards = Kd
+
+
+[river]
+Cards = Qd

@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Jalta111 880,SWIT 620
+
+[preflop]
+Hand = 7s, 6s
+Actions = SWIT S, Jalta111 B, SWIT can FCKRA do C, Jalta111 R, SWIT can FCKRA do C
+
+
+
+
+

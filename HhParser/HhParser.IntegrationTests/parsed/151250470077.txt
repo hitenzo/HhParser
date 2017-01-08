@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = macldn 520,ScottyStevie 480,3aDRoTiShe 500
+
+[preflop]
+Hand = 5h, 4h
+Actions = macldn S, ScottyStevie B, 3aDRoTiShe can FCKRA do C, macldn C, ScottyStevie R, 3aDRoTiShe can FCKRA do C, macldn C
+
+[flop]
+Cards = 8c, 4h, Kc
+Actions = macldn B, ScottyStevie C, 3aDRoTiShe can FCKRA do C
+
+[turn]
+Cards = Kd
+Actions = macldn B, ScottyStevie R, macldn R, ScottyStevie C
+
+[river]
+Cards = Qh
+Actions = macldn B, ScottyStevie C

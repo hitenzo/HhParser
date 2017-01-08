@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = cantplay990 290,ViktorTk 690,W1847 520
+
+[preflop]
+Hand = 7h, 5h
+Actions = W1847 S, cantplay990 B, ViktorTk C, W1847 C, cantplay990 R, ViktorTk F, W1847 C
+
+[flop]
+Cards = 2h, Td, Jd
+
+
+[turn]
+Cards = Kh
+
+
+[river]
+Cards = 5c

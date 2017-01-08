@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Ed_28.1984 590,templargio 410,RashidAA 500
+
+[preflop]
+Hand = 3h, 6d
+Actions = Ed_28.1984 S, templargio B, RashidAA R, Ed_28.1984 C, templargio C
+
+[flop]
+Cards = 2h, Jd, 9c
+Actions = Ed_28.1984 K, templargio K, RashidAA B, Ed_28.1984 C, templargio C
+
+[turn]
+Cards = Qs
+Actions = Ed_28.1984 K, templargio K, RashidAA K
+
+[river]
+Cards = Kh
+Actions = Ed_28.1984 B, templargio F, RashidAA C

@@ -1,0 +1,24 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Huguin01 485,pnutwtf 1015
+
+[preflop]
+Hand = 3d, Ad
+Actions = pnutwtf S, Huguin01 B, pnutwtf can FCKRA do C, Huguin01 C
+
+[flop]
+Cards = As, 5c, 3s
+Actions = Huguin01 K, pnutwtf can FCKRA do C, Huguin01 C
+
+[turn]
+Cards = 3h
+Actions = Huguin01 K, pnutwtf can FCKRA do C
+
+[river]
+Cards = 3c
+Actions = Huguin01 K, pnutwtf can FCKRA do C

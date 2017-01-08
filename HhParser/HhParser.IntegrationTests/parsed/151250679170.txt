@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = giofernand67 440,oufoux08 490,luirian_1989 570
+
+[preflop]
+Hand = Kh, Kc
+Actions = luirian_1989 S, giofernand67 B, oufoux08 can FCKRA do C, luirian_1989 R, giofernand67 C
+
+[flop]
+Cards = 8h, 8s, Ts
+Actions = luirian_1989 K, giofernand67 K
+
+[turn]
+Cards = Jh
+Actions = luirian_1989 K, giofernand67 K
+
+[river]
+Cards = 5s
+Actions = luirian_1989 K, giofernand67 K

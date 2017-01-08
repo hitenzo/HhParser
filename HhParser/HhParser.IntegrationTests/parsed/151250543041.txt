@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = mmelino 500,amazingah 500,Mr_Defo2 500
+
+[preflop]
+Hand = 9s, Qh
+Actions = amazingah S, Mr_Defo2 B, mmelino can FCKRA do C, amazingah F, Mr_Defo2 R, mmelino can FCKRA do C
+
+
+
+
+

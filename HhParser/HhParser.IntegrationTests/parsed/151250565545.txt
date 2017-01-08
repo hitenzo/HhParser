@@ -1,0 +1,24 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = macldn 835,3aDRoTiShe 665
+
+[preflop]
+Hand = Kd, 5h
+Actions = 3aDRoTiShe S, macldn B, 3aDRoTiShe can FCKRA do C, macldn C
+
+[flop]
+Cards = 7c, 7s, 7h
+Actions = macldn K, 3aDRoTiShe can FCKRA do C, macldn C
+
+[turn]
+Cards = Jh
+Actions = macldn K, 3aDRoTiShe can FCKRA do C
+
+[river]
+Cards = Jd
+Actions = macldn B, 3aDRoTiShe can FCKRA do C, macldn C

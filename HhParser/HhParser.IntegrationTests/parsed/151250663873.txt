@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = wtf?0_0337 530,worldtrade53 730,wellesley190 240
+
+[preflop]
+Hand = 5c, 7d
+Actions = wellesley190 S, wtf?0_0337 B, worldtrade53 can FCKRA do C, wellesley190 R, wtf?0_0337 F
+
+
+
+
+

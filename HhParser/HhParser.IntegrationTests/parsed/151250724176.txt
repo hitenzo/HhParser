@@ -1,0 +1,21 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = zii-zii-87 285,VaskFg 1215
+
+[preflop]
+Hand = 8d, 9h
+Actions = VaskFg S, zii-zii-87 B, VaskFg can FCKRA do C, zii-zii-87 C
+
+[flop]
+Cards = 3c, Js, 2d
+Actions = zii-zii-87 K, VaskFg can FCKRA do C, zii-zii-87 C
+
+[turn]
+Cards = Td
+Actions = zii-zii-87 K, VaskFg can FCKRA do C, zii-zii-87 F
+

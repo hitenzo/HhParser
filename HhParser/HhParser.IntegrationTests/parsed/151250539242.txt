@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = seksuni 500,HebertDufour 500,hondashop72 500
+
+[preflop]
+Hand = Kc, 4s
+Actions = HebertDufour S, hondashop72 B, seksuni can FCKRA do C, HebertDufour R, hondashop72 C, seksuni can FCKRA do C
+
+[flop]
+Cards = Ts, 8h, 6s
+Actions = HebertDufour K, hondashop72 K, seksuni can FCKRA do C, HebertDufour F, hondashop72 F
+
+
+

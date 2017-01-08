@@ -1,0 +1,21 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Canoeman2 600,tofque 900
+
+[preflop]
+Hand = Ac, 8s
+Actions = Canoeman2 S, tofque B, Canoeman2 can FCKRA do C, tofque K
+
+[flop]
+Cards = 7d, 7c, 5d
+Actions = tofque K, Canoeman2 can FCKRA do C
+
+[turn]
+Cards = 4s
+Actions = tofque K, Canoeman2 can FCKRA do C, tofque F
+

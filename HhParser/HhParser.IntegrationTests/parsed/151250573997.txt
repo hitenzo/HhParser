@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Presunto1977 380,PokerUrso 490,l2gc 630
+
+[preflop]
+Hand = 4d, 9c
+Actions = l2gc S, Presunto1977 B, PokerUrso can FCKRA do C, l2gc R, Presunto1977 F, PokerUrso can FCKRA do C
+
+
+
+
+

@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = R.00707 310,ISTEPÔ 1190
+
+[preflop]
+Hand = 5c, 9h
+Actions = ISTEPÔ S, R.00707 B, ISTEPÔ can FCKRA do C
+
+
+
+
+

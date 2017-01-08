@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = thetammy 690,cashiscrane 810
+
+[preflop]
+Hand = 5h, Ah
+Actions = cashiscrane S, thetammy B, cashiscrane can FCKRA do C, thetammy R, cashiscrane can FCKRA do C
+
+[flop]
+Cards = As, 3c, Ks
+
+
+[turn]
+Cards = 9s
+
+
+[river]
+Cards = Kd

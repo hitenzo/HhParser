@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = TAIM_OUT_2 460,vit29011985 1040
+
+[preflop]
+Hand = 7h, 5h
+Actions = TAIM_OUT_2 S, vit29011985 B, TAIM_OUT_2 can FCKRA do C
+
+
+
+
+

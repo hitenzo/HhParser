@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = kay69111 570,sciundo 360,kissmyace31 570
+
+[preflop]
+Hand = Td, Ah
+Actions = sciundo S, kissmyace31 B, kay69111 can FCKRA do C, sciundo C, kissmyace31 K
+
+[flop]
+Cards = Ts, Qc, 3c
+Actions = sciundo K, kissmyace31 B, sciundo F
+
+
+

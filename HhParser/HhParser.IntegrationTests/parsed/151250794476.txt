@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = VaskFg 380,Mardi84 800,mojo&eve 320
+
+[preflop]
+Hand = 5s, Jc
+Actions = mojo&eve S, VaskFg B, Mardi84 can FCKRA do C, mojo&eve R, VaskFg F
+
+
+
+
+

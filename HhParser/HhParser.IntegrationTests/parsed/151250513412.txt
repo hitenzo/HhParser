@@ -1,0 +1,24 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Huguin01 1170,Morocco-King 330
+
+[preflop]
+Hand = 7s, 6s
+Actions = Huguin01 S, Morocco-King B, Huguin01 can FCKRA do C, Morocco-King K
+
+[flop]
+Cards = 9s, Qc, 8d
+Actions = Morocco-King K, Huguin01 can FCKRA do C
+
+[turn]
+Cards = 3h
+Actions = Morocco-King B, Huguin01 can FCKRA do C
+
+[river]
+Cards = 2h
+Actions = Morocco-King K, Huguin01 can FCKRA do C, Morocco-King F

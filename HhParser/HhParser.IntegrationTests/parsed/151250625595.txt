@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = AndryKamcha 500,inception.00 500,antonnovitz9 500
+
+[preflop]
+Hand = 3d, Ts
+Actions = inception.00 S, antonnovitz9 B, AndryKamcha can FCKRA do C, inception.00 R, antonnovitz9 F, AndryKamcha can FCKRA do C
+
+
+
+
+

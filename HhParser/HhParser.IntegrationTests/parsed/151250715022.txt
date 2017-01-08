@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = jdaddario 1250,Alisdk1986 250
+
+[preflop]
+Hand = 6d, 3d
+Actions = Alisdk1986 S, jdaddario B, Alisdk1986 can FCKRA do C
+
+
+
+
+

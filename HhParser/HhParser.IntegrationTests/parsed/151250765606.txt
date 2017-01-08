@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = REALACID 240,benja121 1260
+
+[preflop]
+Hand = Qc, Qd
+Actions = benja121 S, REALACID B, benja121 can FCKRA do C
+
+
+
+
+

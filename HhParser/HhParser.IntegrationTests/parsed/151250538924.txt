@@ -1,0 +1,24 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ian8600 855,sartanll 645
+
+[preflop]
+Hand = 6s, Qs
+Actions = ian8600 S, sartan ll B, ian8600 can FCKRA do C, sartanll K
+
+[flop]
+Cards = 7c, Th, Ad
+Actions = sartanll K, ian8600 can FCKRA do C
+
+[turn]
+Cards = Qd
+Actions = sartanll B, ian8600 can FCKRA do C
+
+[river]
+Cards = Ts
+Actions = sartanll B, ian8600 can FCKRA do C

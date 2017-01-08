@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = nebulousuk 460,SledPorn73 570,slajjs 470
+
+[preflop]
+Hand = 6h, Td
+Actions = nebulousuk S, SledPorn73 B, slajjs can FCKRA do C, nebulousuk R, SledPorn73 C
+
+[flop]
+Cards = 8c, Kh, 7d
+Actions = nebulousuk K, SledPorn73 B, nebulousuk C
+
+[turn]
+Cards = 3h
+Actions = nebulousuk B, SledPorn73 R, nebulousuk C
+
+[river]
+Cards = 6s
+Actions = nebulousuk B, SledPorn73 C

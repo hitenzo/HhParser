@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = zii-zii-87 195,VaskFg 1305
+
+[preflop]
+Hand = Td, 4d
+Actions = zii-zii-87 S, VaskFg B, zii-zii-87 can FCKRA do C, VaskFg F
+
+
+
+
+

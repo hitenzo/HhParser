@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ImbaHyTbIu 843,l2gc 294,Presunto1977 363
+
+[preflop]
+Hand = 8d, Qs
+Actions = Presunto1977 S, ImbaHyTbIu B, l2gc can FCKRA do C, Presunto1977 C, ImbaHyTbIu R, l2gc can FCKRA do C, Presunto1977 C
+
+[flop]
+Cards = 3c, 5h, 6s
+Actions = Presunto1977 K, ImbaHyTbIu B, l2gc can FCKRA do C, Presunto1977 F
+
+[turn]
+Cards = Kd
+
+
+[river]
+Cards = 6h

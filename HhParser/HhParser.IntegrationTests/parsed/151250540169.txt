@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = aibolit9998 500,MissyGaGa35 520,DokTopJIuBcu 480
+
+[preflop]
+Hand = 8s, 2c
+Actions = DokTopJIuBcu S, aibolit9998 B, MissyGaGa35 can FCKRA do C, DokTopJIuBcu C, aibolit9998 R, DokTopJIuBcu C
+
+[flop]
+Cards = 6h, 9h, Jh
+Actions = DokTopJIuBcu K, aibolit9998 B, DokTopJIuBcu C
+
+[turn]
+Cards = 8d
+Actions = DokTopJIuBcu K, aibolit9998 B, DokTopJIuBcu C
+
+[river]
+Cards = Ah
+Actions = DokTopJIuBcu B, aibolit9998 F

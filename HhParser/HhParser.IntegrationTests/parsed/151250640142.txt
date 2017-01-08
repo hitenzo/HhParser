@@ -1,0 +1,21 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = dilanmcy1 500,MPCheck 500,maximpps 500
+
+[preflop]
+Hand = 6h, Kh
+Actions = MPCheck S, maximpps B, dilanmcy1 can FCKRA do C, MPCheck R, maximpps C, dilanmcy1 can FCKRA do C, MPCheck C, maximpps F
+
+[flop]
+Cards = 5s, Kd, Qd
+Actions = MPCheck K, dilanmcy1 can FCKRA do C, MPCheck C
+
+[turn]
+Cards = 8c
+Actions = MPCheck K, dilanmcy1 can FCKRA do C, MPCheck F
+

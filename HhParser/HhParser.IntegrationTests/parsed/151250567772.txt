@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = MissyGaGa35 460,DokTopJIuBcu 1040
+
+[preflop]
+Hand = Qs, 3h
+Actions = DokTopJIuBcu S, MissyGaGa35 B, DokTopJIuBcu can FCKRA do C, MissyGaGa35 K
+
+[flop]
+Cards = 3d, 9h, 5h
+Actions = MissyGaGa35 K, DokTopJIuBcu can FCKRA do C
+
+[turn]
+Cards = 3s
+Actions = MissyGaGa35 K, DokTopJIuBcu can FCKRA do C
+
+[river]
+Cards = 2h
+Actions = MissyGaGa35 K, DokTopJIuBcu can FCKRA do C

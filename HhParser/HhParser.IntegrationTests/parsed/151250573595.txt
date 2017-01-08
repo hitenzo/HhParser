@@ -1,0 +1,23 @@
+[table]
+sblind = 40
+bblind = 80
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ian8600 1250,sartanll 250
+
+[preflop]
+Hand = Qd, 9h
+Actions = sartan ll S, ian8600 B, sartanll R, ian8600 C
+
+[flop]
+Cards = 5s, Th, 5d
+
+
+[turn]
+Cards = 8s
+
+
+[river]
+Cards = Jh

@@ -1,0 +1,23 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = M.X.R/10 560,Wisty12 940
+
+[preflop]
+Hand = 9c, 8s
+Actions = M.X.R/10 S, Wisty12 B, M.X.R/10 can FCKRA do C, Wisty12 C
+
+[flop]
+Cards = 5c, Jh, 8c
+
+
+[turn]
+Cards = 3h
+
+
+[river]
+Cards = Js

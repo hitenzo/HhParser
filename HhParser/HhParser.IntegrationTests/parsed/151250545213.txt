@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = legishere 774,Kissofdeat96 180,serask 546
+
+[preflop]
+Hand = Kc, 2c
+Actions = Kissofdeat96 S, serask B, legishere can FCKRA do C, Kissofdeat96 C, serask F
+
+[flop]
+Cards = 9h, 6h, 2c
+Actions = Kissofdeat96 K, legishere can FCKRA do C, Kissofdeat96 F
+
+
+

@@ -1,0 +1,17 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Éliott001 189,NadargeoTNK 1311
+
+[preflop]
+Hand = Js, Jd
+Actions = NadargeoTNK S, Éliott001 B, NadargeoTNK can FCKRA do C
+
+
+
+
+

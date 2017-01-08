@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = hustler10764 850,GugaoAraujo 650
+
+[preflop]
+Hand = 5h, Ad
+Actions = hustler10764 S, GugaoAraujo B, hustler10764 can FCKRA do C
+
+
+
+
+

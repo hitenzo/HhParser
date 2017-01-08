@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = legishere 1064,serask 436
+
+[preflop]
+Hand = 5d, 8c
+Actions = serask S, legishere B, serask can FCKRA do C, legishere F
+
+
+
+
+

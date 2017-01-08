@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = E-Bandz354 590,LucianoBaba 610,JamesA4 300
+
+[preflop]
+Hand = 9d, 9c
+Actions = JamesA4 S, E-Bandz354 B, LucianoBaba can FCKRA do C, JamesA4 C, E-Bandz354 K
+
+[flop]
+Cards = 7h, Ah, 6d
+Actions = JamesA4 B, E-Bandz354 C
+
+[turn]
+Cards = 2s
+Actions = JamesA4 B, E-Bandz354 C
+
+[river]
+Cards = Js
+Actions = JamesA4 B, E-Bandz354 F

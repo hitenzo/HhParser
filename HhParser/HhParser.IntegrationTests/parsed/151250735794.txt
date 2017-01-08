@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Rafaaellopes 410,renafalu 640,kiziy 450
+
+[preflop]
+Hand = 9c, 6c
+Actions = kiziy S, Rafaaellopes B, renafalu can FCKRA do C, kiziy F, Rafaaellopes F
+
+
+
+
+

@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = 69fever69 440,covello_SP 370,King_Kong1O1 690
+
+[preflop]
+Hand = Kd, 3h
+Actions = King_Kong1O1 S, 69fever69 B, covello_SP can FCKRA do C, King_Kong1O1 C, 69fever69 R, covello_SP can FCKRA do C, King_Kong1O1 F
+
+[flop]
+Cards = Jh, Kh, 3d
+Actions = 69fever69 K, covello_SP can FCKRA do C, 69fever69 C
+
+[turn]
+Cards = 6h
+
+
+[river]
+Cards = Jc

@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = lefnjup 500,AndryKamcha 500,leonguevarra 500
+
+[preflop]
+Hand = 9h, Ks
+Actions = AndryKamcha S, leonguevarra B, lefnjup F, AndryKamcha R, leonguevarra F
+
+
+
+
+

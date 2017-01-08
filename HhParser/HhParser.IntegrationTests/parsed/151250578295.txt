@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = durptydoo 500,Pengene.TAK 500,rpl1973 500
+
+[preflop]
+Hand = Th, 6d
+Actions = Pengene.TAK S, rpl1973 B, durptydoo F, Pengene.TAK R, rpl1973 F
+
+
+
+
+

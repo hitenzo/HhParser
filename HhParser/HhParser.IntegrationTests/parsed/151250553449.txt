@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = rpl1973 1050,gnadenlos.nf 450
+
+[preflop]
+Hand = Jd, As
+Actions = gnadenlos.nf S, rpl1973 B, gnadenlos.nf can FCKRA do C, rpl1973 C
+
+[flop]
+Cards = 6c, 5d, Qc
+Actions = rpl1973 K, gnadenlos.nf can FCKRA do C
+
+[turn]
+Cards = 8d
+Actions = rpl1973 B, gnadenlos.nf can FCKRA do C
+
+[river]
+Cards = 9c
+Actions = rpl1973 B, gnadenlos.nf can FCKRA do C

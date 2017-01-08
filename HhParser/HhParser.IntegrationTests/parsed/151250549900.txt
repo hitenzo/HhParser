@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ChesterSM 460,romeo69181 460,suade54 580
+
+[preflop]
+Hand = Ts, Td
+Actions = suade54 S, ChesterSM B, romeo69181 can FCKRA do C, suade54 C, ChesterSM K
+
+[flop]
+Cards = 2d, 6s, 6h
+Actions = suade54 K, ChesterSM K
+
+[turn]
+Cards = 5d
+Actions = suade54 K, ChesterSM K
+
+[river]
+Cards = As
+Actions = suade54 K, ChesterSM K

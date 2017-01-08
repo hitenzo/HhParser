@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = iulia1994201 540,$hukran 490,b_to21 470
+
+[preflop]
+Hand = Jc, As
+Actions = iulia1994201 S, $hukran B, b_to21 can FCKRA do C, iulia1994201 R, $hukran F
+
+
+
+
+

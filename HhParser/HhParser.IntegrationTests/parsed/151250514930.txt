@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Rubao007 430,spanchx 1070
+
+[preflop]
+Hand = Tc, 2s
+Actions = Rubao 007 S, spanchx B, Rubao007 C, spanchx K
+
+[flop]
+Cards = Th, 6s, Ah
+Actions = spanchx K, Rubao007 B, spanchx F
+
+
+

@@ -1,0 +1,17 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ian8600 825,sartanll 675
+
+[preflop]
+Hand = Qc, Ts
+Actions = sartan ll S, ian8600 B, sartanll F
+
+
+
+
+

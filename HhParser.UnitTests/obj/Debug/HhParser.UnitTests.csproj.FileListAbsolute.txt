@@ -1,0 +1,7 @@
+C:\.net projects\HhParser\HhParser.UnitTests\bin\Debug\HhParser.UnitTests.dll
+C:\.net projects\HhParser\HhParser.UnitTests\bin\Debug\HhParser.UnitTests.pdb
+C:\.net projects\HhParser\HhParser.UnitTests\bin\Debug\HhParser.exe
+C:\.net projects\HhParser\HhParser.UnitTests\bin\Debug\HhParser.pdb
+C:\.net projects\HhParser\HhParser.UnitTests\obj\Debug\HhParser.UnitTests.csprojResolveAssemblyReference.cache
+C:\.net projects\HhParser\HhParser.UnitTests\obj\Debug\HhParser.UnitTests.dll
+C:\.net projects\HhParser\HhParser.UnitTests\obj\Debug\HhParser.UnitTests.pdb

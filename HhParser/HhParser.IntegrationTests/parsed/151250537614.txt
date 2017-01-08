@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = shell2110 320,booffer 380,viko737 800
+
+[preflop]
+Hand = 6s, Qs
+Actions = booffer S, viko737 B, shell2110 can FCKRA do C, booffer R, viko737 R, booffer C
+
+[flop]
+Cards = 3c, 7h, 5s
+
+
+[turn]
+Cards = 6h
+
+
+[river]
+Cards = Ks

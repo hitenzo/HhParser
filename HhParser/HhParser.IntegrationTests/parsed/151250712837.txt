@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = l2gc 610,huebede 390,PIOTREK11111 500
+
+[preflop]
+Hand = 3h, 9h
+Actions = huebede S, PIOTREK11111 B, l2gc can FCKRA do C, huebede C, PIOTREK11111 K
+
+[flop]
+Cards = 8h, 5c, Kd
+Actions = huebede K, PIOTREK11111 K
+
+[turn]
+Cards = 8d
+Actions = huebede K, PIOTREK11111 K
+
+[river]
+Cards = 3h
+Actions = huebede B, PIOTREK11111 F

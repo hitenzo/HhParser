@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Xandecaixa 460,kay69111 1040
+
+[preflop]
+Hand = Ks, 6d
+Actions = kay69111 S, Xandecaixa B, kay69111 can FCKRA do C
+
+
+
+
+

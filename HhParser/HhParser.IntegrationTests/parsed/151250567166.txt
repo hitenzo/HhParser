@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Huguin01 440,cfuhkcekb 300,LucianoLindo 760
+
+[preflop]
+Hand = Td, Qd
+Actions = LucianoLindo S, Huguin01 B, cfuhkcekb can FCKRA do C, LucianoLindo C, Huguin01 K
+
+[flop]
+Cards = 4c, Th, 4d
+Actions = LucianoLindo B, Huguin01 F
+
+
+

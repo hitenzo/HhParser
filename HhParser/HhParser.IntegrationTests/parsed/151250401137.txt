@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = DonnyBra505 765,IIcuxe9Igz 735
+
+[preflop]
+Hand = Ah, 8s
+Actions = Donny Bra505 S, IIcuxe9Igz B, DonnyBra505 C, IIcuxe9Igz R, DonnyBra505 F
+
+
+
+
+

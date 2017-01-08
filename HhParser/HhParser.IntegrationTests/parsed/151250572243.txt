@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = I'magir! 500,DarkVarvar 520,SUPEREDJI9 480
+
+[preflop]
+Hand = Th, 6d
+Actions = SUPER EDJI 9 S, I'm a gir! B, DarkVarvar R, SUPEREDJI9 F, I'magir! F
+
+
+
+
+

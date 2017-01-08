@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ME0WSKI 375,terremoto181 1125
+
+[preflop]
+Hand = 3s, 5h
+Actions = terremoto181 S, ME0WSKI B, terremoto181 can FCKRA do C, ME0WSKI R, terremoto181 can FCKRA do C
+
+
+
+
+

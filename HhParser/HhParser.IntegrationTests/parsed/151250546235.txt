@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Fabrici0AM 555,ChesterSM 455,kezsofi 490
+
+[preflop]
+Hand = Kd, 3h
+Actions = ChesterSM S, kezsofi B, Fabrici0AM can FCKRA do C, ChesterSM F
+
+
+
+
+

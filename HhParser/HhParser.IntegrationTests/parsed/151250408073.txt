@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = rapinha28 867,316911 633
+
+[preflop]
+Hand = 9d, 6s
+Actions = 316911 S, rapinha28 B, 316911 can FCKRA do C, rapinha28 F
+
+
+
+
+

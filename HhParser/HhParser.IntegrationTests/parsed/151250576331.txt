@@ -1,0 +1,21 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = seksuni 1070,HebertDufour 430
+
+[preflop]
+Hand = 9s, Td
+Actions = HebertDufour S, seksuni B, HebertDufour can FCKRA do C, seksuni C
+
+[flop]
+Cards = Jh, 6c, 4h
+Actions = seksuni K, HebertDufour can FCKRA do C, seksuni C
+
+[turn]
+Cards = 5c
+Actions = seksuni K, HebertDufour can FCKRA do C, seksuni F
+

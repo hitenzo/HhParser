@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = emerald2016 500,Rafaaellopes 490,Rubao007 510
+
+[preflop]
+Hand = 9d, 5d
+Actions = Rubao 007 S, emerald2016 B, Rafaaellopes can FCKRA do C, Rubao007 C, emerald2016 F
+
+[flop]
+Cards = 7s, 4s, Kd
+Actions = Rubao007 B, Rafaaellopes can FCKRA do C
+
+[turn]
+Cards = Kh
+
+
+[river]
+Cards = Js

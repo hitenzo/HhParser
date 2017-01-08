@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = 99luck1skill 370,Farcostin 900,hjkrio 230
+
+[preflop]
+Hand = 7s, 3c
+Actions = 99luck1skill S, Farcostin B, hjkrio can FCKRA do C, 99luck1skill C, Farcostin K
+
+[flop]
+Cards = Js, 4h, 9d
+Actions = 99luck1skill K, Farcostin K, hjkrio can FCKRA do C, 99luck1skill C, Farcostin F
+
+[turn]
+Cards = Jd
+Actions = 99luck1skill K, hjkrio can FCKRA do C
+
+[river]
+Cards = Tc
+Actions = 99luck1skill B, hjkrio can FCKRA do C, 99luck1skill R, hjkrio can FCKRA do C

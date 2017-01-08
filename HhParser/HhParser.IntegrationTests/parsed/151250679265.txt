@@ -1,0 +1,21 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = pelaopreto 450,REALACID 500,cokostarts 550
+
+[preflop]
+Hand = 8d, Qs
+Actions = pelao preto S, REALACID B, cokostarts can FCKRA do C, pelaopreto R, REALACID C
+
+[flop]
+Cards = Qc, Qh, 9s
+Actions = pelaopreto K, REALACID K
+
+[turn]
+Cards = 8d
+Actions = pelaopreto B, REALACID F
+

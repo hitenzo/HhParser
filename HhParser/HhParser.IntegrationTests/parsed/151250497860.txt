@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = fer_1441 510,moneysime 560,SparrowBman 430
+
+[preflop]
+Hand = 7d, 8s
+Actions = fer_1441 S, moneysime B, SparrowBman R, fer_1441 R, moneysime F, SparrowBman C
+
+[flop]
+Cards = Ad, Kd, 9s
+
+
+[turn]
+Cards = Qs
+
+
+[river]
+Cards = As

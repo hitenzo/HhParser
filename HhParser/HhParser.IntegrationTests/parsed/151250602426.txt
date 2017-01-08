@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = TAIM_OUT_2 480,vit29011985 1020
+
+[preflop]
+Hand = 7h, 5h
+Actions = vit29011985 S, TAIM_OUT_2 B, vit29011985 can FCKRA do C, TAIM_OUT_2 K
+
+[flop]
+Cards = As, Kd, 6h
+Actions = TAIM_OUT_2 K, vit29011985 can FCKRA do C, TAIM_OUT_2 F
+
+
+

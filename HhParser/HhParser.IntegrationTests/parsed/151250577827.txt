@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = cfuhkcekb 1060,xXmInIfAnTxx 440
+
+[preflop]
+Hand = Td, Qd
+Actions = xXmInIfAnTxx S, cfuhkcekb B, xXmInIfAnTxx can FCKRA do C, cfuhkcekb F
+
+
+
+
+

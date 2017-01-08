@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = REALACID 380,05Ruy 1120
+
+[preflop]
+Hand = 3s, 4s
+Actions = 05 Ruy S, REALACID B, 05Ruy C, REALACID R, 05Ruy C
+
+[flop]
+Cards = Jh, 4h, Th
+
+
+[turn]
+Cards = 7s
+
+
+[river]
+Cards = Qs

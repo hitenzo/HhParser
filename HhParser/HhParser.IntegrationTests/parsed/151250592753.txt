@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = mmelino 950,amazingah 550
+
+[preflop]
+Hand = 3h, Jh
+Actions = amazingah S, mmelino B, amazingah can FCKRA do C, mmelino C
+
+[flop]
+Cards = 3h, 8c, Kc
+Actions = mmelino K, amazingah can FCKRA do C, mmelino R, amazingah can FCKRA do C, mmelino C
+
+[turn]
+Cards = Kh
+
+
+[river]
+Cards = 3d

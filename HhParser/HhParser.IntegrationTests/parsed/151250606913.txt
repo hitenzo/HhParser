@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ViktorTk 670,W1847 830
+
+[preflop]
+Hand = Kd, 3h
+Actions = W1847 S, Viktor Tk B, W1847 can FCKRA do C, ViktorTk K
+
+[flop]
+Cards = Kd, 9h, 6d
+Actions = ViktorTk B, W1847 can FCKRA do C
+
+
+

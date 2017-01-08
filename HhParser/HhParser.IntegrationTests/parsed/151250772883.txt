@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ChesterSM 570,incicco 470,RICHARDGOME 460
+
+[preflop]
+Hand = 3c, 3d
+Actions = ChesterSM S, incicco B, RICHARDGOME R, ChesterSM F, incicco F
+
+
+
+
+

@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = zii-zii-87 420,VaskFg 790,Mapom 290
+
+[preflop]
+Hand = 8c, Td
+Actions = VaskFg S, Mapom B, zii-zii-87 can FCKRA do C, VaskFg R, Mapom C
+
+[flop]
+Cards = Kh, 9h, 7s
+Actions = VaskFg K, Mapom K
+
+[turn]
+Cards = 8d
+Actions = VaskFg K, Mapom K
+
+[river]
+Cards = Ah
+Actions = VaskFg K, Mapom K

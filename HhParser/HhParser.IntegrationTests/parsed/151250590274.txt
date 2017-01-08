@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = omm20077 510,Soffie86 575,rpl1973 415
+
+[preflop]
+Hand = 9d, 9c
+Actions = omm20077 S, Soffie86 B, rpl1973 can FCKRA do C, omm20077 R, Soffie86 C
+
+[flop]
+Cards = 5c, 6d, 8c
+Actions = omm20077 K, Soffie86 B, omm20077 R, Soffie86 F
+
+
+

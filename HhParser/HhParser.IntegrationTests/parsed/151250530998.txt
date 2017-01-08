@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = 99luck1skill 620,Farcostin 880
+
+[preflop]
+Hand = 4c, Th
+Actions = Farcostin S, 99luck1skill B, Farcostin can FCKRA do C, 99luck1skill K
+
+[flop]
+Cards = 4s, Td, Ts
+Actions = 99luck1skill B, Farcostin can FCKRA do C, 99luck1skill F
+
+
+

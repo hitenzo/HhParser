@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = SIMONIK302 580,chiko711 920
+
+[preflop]
+Hand = Jc, As
+Actions = chiko711 S, SIMONIK302 B, chiko711 can FCKRA do C, SIMONIK302 K
+
+[flop]
+Cards = 3h, Ad, Td
+Actions = SIMONIK302 K, chiko711 can FCKRA do C, SIMONIK302 F
+
+
+

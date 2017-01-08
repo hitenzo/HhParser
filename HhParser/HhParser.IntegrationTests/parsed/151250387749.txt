@@ -1,0 +1,21 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = pipe+flow 280,Lincoln0819 800,dilanmcy1 420
+
+[preflop]
+Hand = 5h, 4h
+Actions = Lincoln0819 S, dilanmcy1 B, pipe+flow can FCKRA do C, Lincoln0819 C, dilanmcy1 R, Lincoln0819 C
+
+[flop]
+Cards = As, Td, 9s
+Actions = Lincoln0819 K, dilanmcy1 B, Lincoln0819 C
+
+[turn]
+Cards = Kd
+Actions = Lincoln0819 K, dilanmcy1 B, Lincoln0819 F
+

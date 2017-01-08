@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = kingofrosy 500,oloscha 500,jorjaoangra 500
+
+[preflop]
+Hand = 9c, 8s
+Actions = oloscha S, jorjaoangra B, kingofrosy can FCKRA do C, oloscha C, jorjaoangra K
+
+[flop]
+Cards = Kh, 8c, 9c
+Actions = oloscha B, jorjaoangra C, kingofrosy can FCKRA do C
+
+[turn]
+Cards = Kc
+Actions = oloscha B, jorjaoangra C
+
+[river]
+Cards = 7d
+Actions = oloscha B, jorjaoangra F

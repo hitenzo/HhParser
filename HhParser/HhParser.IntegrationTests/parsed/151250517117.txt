@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = RosyMonaLisa 500,ouwebeuker 520,sello~toto 480
+
+[preflop]
+Hand = 3c, 6c
+Actions = sello~toto S, RosyMonaLisa B, ouwebeuker F, sello~toto F
+
+
+
+
+

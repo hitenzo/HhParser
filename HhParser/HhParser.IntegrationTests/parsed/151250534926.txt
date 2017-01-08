@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = trolik82 895,b_to21 605
+
+[preflop]
+Hand = 4d, Qs
+Actions = b_to21 S, trolik82 B, b_to21 can FCKRA do C
+
+
+
+
+

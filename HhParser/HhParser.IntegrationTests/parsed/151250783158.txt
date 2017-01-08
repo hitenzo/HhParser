@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = WenBin777 660,fusfus66 400,vilnis76 440
+
+[preflop]
+Hand = 9s, 5d
+Actions = Wen Bin 777 S, fusfus66 B, vilnis76 can FCKRA do C, WenBin777 F, fusfus66 F
+
+
+
+
+

@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = jdaddario 825,Alisdk1986 350,nbavtyki 325
+
+[preflop]
+Hand = Qs, 4c
+Actions = jdaddario S, Alisdk1986 B, nbavtyki can FCKRA do C, jdaddario C, Alisdk1986 K
+
+[flop]
+Cards = As, 6h, 2h
+Actions = jdaddario B, Alisdk1986 F
+
+
+

@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = kefke1986 510,slajjs 520,amazingah 470
+
+[preflop]
+Hand = 5d, 5h
+Actions = kefke1986 S, slajjs B, amazingah can FCKRA do C, kefke1986 C, slajjs K
+
+[flop]
+Cards = Qh, Ad, Qd
+Actions = kefke1986 K, slajjs K
+
+[turn]
+Cards = 5c
+Actions = kefke1986 K, slajjs K
+
+[river]
+Cards = Jc
+Actions = kefke1986 B, slajjs F

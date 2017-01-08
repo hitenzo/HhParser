@@ -1,0 +1,24 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = pia_monic 840,Crischucky 660
+
+[preflop]
+Hand = 4h, 3h
+Actions = pia_monic S, Cris chucky B, pia_monic can FCKRA do C, Crischucky C
+
+[flop]
+Cards = 7h, Qd, 4d
+Actions = Crischucky K, pia_monic can FCKRA do C, Crischucky C
+
+[turn]
+Cards = Js
+Actions = Crischucky B, pia_monic can FCKRA do C
+
+[river]
+Cards = Jc
+Actions = Crischucky B, pia_monic can FCKRA do C

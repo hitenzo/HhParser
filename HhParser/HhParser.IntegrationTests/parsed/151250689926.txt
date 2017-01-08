@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Nablo87 1400,fiReTemper 100
+
+[preflop]
+Hand = 6d, 3d
+Actions = Nablo87 S, fiReTemper B, Nablo87 can FCKRA do C, fiReTemper R, Nablo87 can FCKRA do C
+
+[flop]
+Cards = 7s, Js, 3c
+
+
+[turn]
+Cards = 6s
+
+
+[river]
+Cards = 8d

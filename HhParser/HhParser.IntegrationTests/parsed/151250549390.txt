@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = juus57 490,squidster_01 540,gustas2014 470
+
+[preflop]
+Hand = 8h, As
+Actions = juus57 S, squidster_01 B, gustas2014 can FCKRA do C, juus57 C, squidster_01 R, juus57 F
+
+
+
+
+

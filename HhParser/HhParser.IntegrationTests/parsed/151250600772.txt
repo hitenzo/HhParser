@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Alisdk1986 1000,ernestininho 500
+
+[preflop]
+Hand = 7h, 5h
+Actions = Alisdk1986 S, ernestininho B, Alisdk1986 can FCKRA do C, ernestininho C
+
+[flop]
+Cards = Qh, 7h, 6d
+Actions = ernestininho K, Alisdk1986 can FCKRA do C
+
+[turn]
+Cards = Tc
+Actions = ernestininho B, Alisdk1986 can FCKRA do C
+
+[river]
+Cards = 9d
+Actions = ernestininho B, Alisdk1986 can FCKRA do C

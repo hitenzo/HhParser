@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = maxis_226 500,GDA13 500,REALACID 500
+
+[preflop]
+Hand = Ac, 5h
+Actions = GDA13 S, REALACID B, maxis_226 can FCKRA do C, GDA13 C, REALACID K
+
+[flop]
+Cards = 3s, 6d, 2s
+Actions = GDA13 K, REALACID B, GDA13 F
+
+
+

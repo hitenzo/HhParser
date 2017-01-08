@@ -1,0 +1,23 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Evopol 150,elchicosoto 590,bigjohn444 760
+
+[preflop]
+Hand = 8h, 3d
+Actions = bigjohn444 S, Evopol B, elchicosoto can FCKRA do C, bigjohn444 F, Evopol R, elchicosoto can FCKRA do C
+
+[flop]
+Cards = Ad, 3d, 4d
+
+
+[turn]
+Cards = 3s
+
+
+[river]
+Cards = 7s

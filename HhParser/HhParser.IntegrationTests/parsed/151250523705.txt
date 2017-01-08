@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = MPCheck 500,slajjs 500,TerBear1980 500
+
+[preflop]
+Hand = 5h, Qh
+Actions = slajjs S, TerBear1980 B, MPCheck can FCKRA do C, slajjs R, TerBear1980 F, MPCheck can FCKRA do C
+
+
+
+
+

@@ -1,0 +1,21 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = lfreerolls 590,J.M.L.M.26 910
+
+[preflop]
+Hand = 6d, Td
+Actions = lfreerolls S, J.M.L.M.26 B, lfreerolls can FCKRA do C, J.M.L.M.26 K
+
+[flop]
+Cards = 5c, Kc, 4h
+Actions = J.M.L.M.26 K, lfreerolls can FCKRA do C
+
+[turn]
+Cards = 8c
+Actions = J.M.L.M.26 B, lfreerolls can FCKRA do C
+

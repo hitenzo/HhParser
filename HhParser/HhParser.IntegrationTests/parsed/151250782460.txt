@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = sir.galojf 480,Fabrici0AM 860,mishazeegun 160
+
+[preflop]
+Hand = Jc, Qd
+Actions = sir.galojf S, Fabrici0AM B, mishazeegun can FCKRA do C, sir.galojf R, Fabrici0AM C
+
+[flop]
+Cards = 4d, 3d, 9s
+Actions = sir.galojf K, Fabrici0AM K
+
+[turn]
+Cards = 5c
+Actions = sir.galojf B, Fabrici0AM C
+
+[river]
+Cards = Td
+Actions = sir.galojf B, Fabrici0AM F

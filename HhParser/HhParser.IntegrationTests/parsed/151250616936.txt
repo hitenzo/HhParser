@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ViktorTk 680,W1847 820
+
+[preflop]
+Hand = Jh, 7h
+Actions = Viktor Tk S, W1847 B, ViktorTk F
+
+
+
+
+

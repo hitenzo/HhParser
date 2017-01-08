@@ -1,0 +1,17 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = slajjs 400,amazingah 1100
+
+[preflop]
+Hand = 9h, 6s
+Actions = slajjs S, amazingah B, slajjs can FCKRA do C, amazingah R, slajjs can FCKRA do C
+
+
+
+
+

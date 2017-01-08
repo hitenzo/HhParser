@@ -1,0 +1,23 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Soffie86 650,55555yan 850
+
+[preflop]
+Hand = 7d, 8s
+Actions = Soffie86 S, 55555yan B, Soffie86 can FCKRA do C, 55555yan C
+
+[flop]
+Cards = 7s, 3h, 4d
+
+
+[turn]
+Cards = 6d
+
+
+[river]
+Cards = 5s

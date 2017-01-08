@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Dan_Champ 500,wento1 500,sergik118 500
+
+[preflop]
+Hand = 9d, 9c
+Actions = wento1 S, sergik118 B, Dan_Champ can FCKRA do C, wento1 F, sergik118 K
+
+[flop]
+Cards = Kd, Ah, Qc
+Actions = sergik118 K, Dan_Champ can FCKRA do C
+
+[turn]
+Cards = 5c
+Actions = sergik118 K, Dan_Champ can FCKRA do C
+
+[river]
+Cards = Ad
+Actions = sergik118 K, Dan_Champ can FCKRA do C

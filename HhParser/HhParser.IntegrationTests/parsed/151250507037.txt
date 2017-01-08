@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Dan_Champ 500,TAIM_OUT_2 450,Farcostin 550
+
+[preflop]
+Hand = Th, Jc
+Actions = Dan_Champ S, TAIM_OUT_2 B, Farcostin can FCKRA do C, Dan_Champ F, TAIM_OUT_2 K
+
+[flop]
+Cards = 7s, Tc, 2d
+Actions = TAIM_OUT_2 B, Farcostin can FCKRA do C
+
+[turn]
+Cards = 4h
+Actions = TAIM_OUT_2 B, Farcostin can FCKRA do C
+
+[river]
+Cards = 8h
+Actions = TAIM_OUT_2 B, Farcostin can FCKRA do C

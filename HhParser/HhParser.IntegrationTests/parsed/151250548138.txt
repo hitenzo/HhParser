@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = hieu102014 460,amazingah 490,NadargeoTNK 550
+
+[preflop]
+Hand = Ah, 6c
+Actions = NadargeoTNK S, hieu102014 B, amazingah can FCKRA do C, NadargeoTNK F
+
+
+
+
+

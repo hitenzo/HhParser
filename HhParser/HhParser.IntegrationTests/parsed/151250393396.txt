@@ -1,0 +1,24 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = bmmerm3701 385,12kavkaz12 330,FarNorth09 785
+
+[preflop]
+Hand = Ah, 8s
+Actions = bmmerm3701 S, 12kavkaz12 B, FarNorth09 C, bmmerm3701 F, 12kavkaz12 K
+
+[flop]
+Cards = Js, 4h, Qh
+Actions = 12kavkaz12 K, FarNorth09 B, 12kavkaz12 C
+
+[turn]
+Cards = As
+Actions = 12kavkaz12 K, FarNorth09 B, 12kavkaz12 C
+
+[river]
+Cards = Kh
+Actions = 12kavkaz12 K, FarNorth09 K

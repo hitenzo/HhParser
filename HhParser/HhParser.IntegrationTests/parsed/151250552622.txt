@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = nbavtyki 560,cfuhkcekb 520,xXmInIfAnTxx 420
+
+[preflop]
+Hand = Kd, 8s
+Actions = xXmInIfAnTxx S, nbavtyki B, cfuhkcekb can FCKRA do C, xXmInIfAnTxx C, nbavtyki C
+
+[flop]
+Cards = Kc, Ac, 5h
+Actions = xXmInIfAnTxx K, nbavtyki B, cfuhkcekb can FCKRA do C, xXmInIfAnTxx F, nbavtyki R, cfuhkcekb can FCKRA do C
+
+[turn]
+Cards = 2h
+
+
+[river]
+Cards = 6s

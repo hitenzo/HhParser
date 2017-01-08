@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = l2gc 1030,PIOTREK11111 470
+
+[preflop]
+Hand = 3s, 8c
+Actions = PIOTREK11111 S, l2gc B, PIOTREK11111 can FCKRA do C
+
+
+
+
+

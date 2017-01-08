@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = maxbank1 660,jeffsuen 285,firstpoke4 555
+
+[preflop]
+Hand = 5c, Jh
+Actions = jeffsuen S, firstpoke4 B, maxbank1 can FCKRA do C, jeffsuen R, firstpoke4 F
+
+
+
+
+

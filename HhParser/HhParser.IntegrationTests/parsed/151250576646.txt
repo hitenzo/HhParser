@@ -1,0 +1,21 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = cavesun 530,nickgho 440,kiziy 530
+
+[preflop]
+Hand = 4c, 6s
+Actions = kiziy S, cavesun B, nickgho can FCKRA do C, kiziy R, cavesun C, nickgho can FCKRA do C
+
+[flop]
+Cards = 5d, Qh, 2c
+Actions = kiziy B, cavesun R, nickgho can FCKRA do C, kiziy C
+
+[turn]
+Cards = 8h
+Actions = kiziy K, cavesun K, nickgho can FCKRA do C, kiziy F, cavesun F
+

@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = fer_1441 500,moneysime 560,SparrowBman 440
+
+[preflop]
+Hand = 5h, Ad
+Actions = Sparrow Bman S, fer_1441 B, moneysime can FCKRA do C, SparrowBman F
+
+
+
+
+

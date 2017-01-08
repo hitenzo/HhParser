@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Jalta111 500,pulponegro 490,SWIT 510
+
+[preflop]
+Hand = 6d, Td
+Actions = SWIT S, Jalta111 B, pulponegro can FCKRA do C, SWIT F
+
+
+
+
+

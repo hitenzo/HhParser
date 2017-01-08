@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = hieu102014 500,Mr_Defo2 500,globar 500
+
+[preflop]
+Hand = 9d, 7h
+Actions = Mr_Defo2 S, globar B, hieu102014 can FCKRA do C, Mr_Defo2 F, globar C
+
+[flop]
+Cards = 6s, Js, 6c
+Actions = globar K, hieu102014 can FCKRA do C, globar F
+
+
+

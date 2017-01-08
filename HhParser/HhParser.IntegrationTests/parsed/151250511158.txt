@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Dan_Champ 650,kay69111 490,brunolucci 360
+
+[preflop]
+Hand = 8d, 9d
+Actions = Dan_Champ S, kay69111 B, brunolucci can FCKRA do C, Dan_Champ C, kay69111 F
+
+[flop]
+Cards = 2c, Qs, Qc
+Actions = Dan_Champ K, brunolucci can FCKRA do C, Dan_Champ C
+
+[turn]
+Cards = Ks
+Actions = Dan_Champ K, brunolucci can FCKRA do C
+
+[river]
+Cards = 8h
+Actions = Dan_Champ B, brunolucci can FCKRA do C

@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = came111 510,incicco 520,Mr.Firefoxy 470
+
+[preflop]
+Hand = 8d, Qs
+Actions = came111 S, incicco B, Mr.Firefoxy can FCKRA do C, came111 C, incicco R, came111 F
+
+
+
+
+

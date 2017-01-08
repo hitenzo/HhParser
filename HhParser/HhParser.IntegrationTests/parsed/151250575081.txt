@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = kibo2323 515,crisk8_93 985
+
+[preflop]
+Hand = 5h, Qs
+Actions = kibo2323 S, crisk8_93 B, kibo2323 can FCKRA do C, crisk8_93 R, kibo2323 can FCKRA do C
+
+[flop]
+Cards = 7h, 7d, 6c
+Actions = crisk8_93 B, kibo2323 can FCKRA do C
+
+
+

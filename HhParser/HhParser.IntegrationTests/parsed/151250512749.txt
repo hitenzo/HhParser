@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = tojiuk300 360,LuckyTillo2 550,kamerun 590
+
+[preflop]
+Hand = Kc, 4s
+Actions = tojiuk300 S, LuckyTillo2 B, kamerun can FCKRA do C, tojiuk300 R, LuckyTillo2 C
+
+[flop]
+Cards = 3h, 7h, 5c
+Actions = tojiuk300 B, LuckyTillo2 F
+
+
+

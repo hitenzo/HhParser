@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Huguin01 590,pnutwtf 910
+
+[preflop]
+Hand = 9h, Ks
+Actions = pnutwtf S, Huguin01 B, pnutwtf can FCKRA do C
+
+
+
+
+

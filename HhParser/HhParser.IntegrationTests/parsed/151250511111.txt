@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Rubao007 390,spanchx 1110
+
+[preflop]
+Hand = Tc, 2s
+Actions = spanchx S, Rubao 007 B, spanchx can FCKRA do C, Rubao007 R, spanchx can FCKRA do C
+
+
+
+
+

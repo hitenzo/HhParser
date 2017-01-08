@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = REALACID 460,05Ruy 1040
+
+[preflop]
+Hand = As, 7d
+Actions = REALACID S, 05 Ruy B, REALACID can FCKRA do C, 05Ruy C
+
+[flop]
+Cards = Ah, 6d, 3s
+Actions = 05Ruy K, REALACID can FCKRA do C, 05Ruy C
+
+[turn]
+Cards = 2s
+Actions = 05Ruy K, REALACID can FCKRA do C
+
+[river]
+Cards = Td
+Actions = 05Ruy B, REALACID can FCKRA do C

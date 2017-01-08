@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Miky=IUI= 200,mars21666 460,justiellen 840
+
+[preflop]
+Hand = Ad, 4c
+Actions = Miky =I U I= S, mars21666 B, justiellen can FCKRA do C, Miky=IUI= R, mars21666 F, justiellen can FCKRA do C
+
+[flop]
+Cards = Jd, 9h, 3d
+
+
+[turn]
+Cards = Qc
+
+
+[river]
+Cards = Kd

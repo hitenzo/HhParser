@@ -1,0 +1,17 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = AA4u2224me 690,hondashop72 810
+
+[preflop]
+Hand = 5d, 8c
+Actions = hondashop72 S, AA4u2224me B, hondashop72 can FCKRA do C
+
+
+
+
+

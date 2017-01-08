@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = emerald2016 500,Rubao007 1000
+
+[preflop]
+Hand = Qd, Jh
+Actions = emerald2016 S, Rubao 007 B, emerald2016 can FCKRA do C
+
+
+
+
+

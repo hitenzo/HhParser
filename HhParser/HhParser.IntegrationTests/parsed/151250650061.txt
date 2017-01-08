@@ -1,0 +1,23 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = rodgv 255,spriteyann 175,LSNK 1070
+
+[preflop]
+Hand = 6h, Kh
+Actions = spriteyann S, LSNK B, rodgv can FCKRA do C, spriteyann F, LSNK C
+
+[flop]
+Cards = 3c, Ks, 4c
+
+
+[turn]
+Cards = 7h
+
+
+[river]
+Cards = 3d

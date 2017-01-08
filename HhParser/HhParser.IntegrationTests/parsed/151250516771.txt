@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = jefinitely2 120,incicco 800,badfish1986 580
+
+[preflop]
+Hand = 3c, Kc
+Actions = incicco S, badfish1986 B, jefinitely2 can FCKRA do C, incicco R, badfish1986 C
+
+[flop]
+Cards = 7d, Qd, Qs
+Actions = incicco B, badfish1986 F
+
+
+

@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = rpl1973 530,gnadenlos.nf 490,MoneyCash100 480
+
+[preflop]
+Hand = 8s, 7h
+Actions = MoneyCash100 S, rpl1973 B, gnadenlos.nf can FCKRA do C, MoneyCash100 R, rpl1973 R, gnadenlos.nf can FCKRA do C, MoneyCash100 C
+
+[flop]
+Cards = 6c, Kd, 2c
+Actions = MoneyCash100 K, rpl1973 B, MoneyCash100 R, rpl1973 C
+
+[turn]
+Cards = Kh
+
+
+[river]
+Cards = 6d

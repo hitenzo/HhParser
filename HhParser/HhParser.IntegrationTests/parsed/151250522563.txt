@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = **Forrint** 500,Dan_Champ 500,shnetinka 500
+
+[preflop]
+Hand = Ks, 8h
+Actions = Dan_Champ S, shnetinka B, **Forrint** can FCKRA do C, Dan_Champ F, shnetinka R, **Forrint** can FCKRA do C, shnetinka C
+
+[flop]
+Cards = 7c, 8d, Tc
+
+
+[turn]
+Cards = 2h
+
+
+[river]
+Cards = 9d

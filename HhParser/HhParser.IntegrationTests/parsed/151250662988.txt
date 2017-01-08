@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = emerald2016 460,Rubao007 1040
+
+[preflop]
+Hand = Qc, Qd
+Actions = Rubao 007 S, emerald2016 B, Rubao007 R, emerald2016 R, Rubao007 C
+
+[flop]
+Cards = Tc, Qc, 2s
+
+
+[turn]
+Cards = 9h
+
+
+[river]
+Cards = 5h

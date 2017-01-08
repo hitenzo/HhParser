@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = legishere 884,Kissofdeat96 100,serask 516
+
+[preflop]
+Hand = Ts, Td
+Actions = legishere S, Kissofdeat96 B, serask can FCKRA do C, legishere R, Kissofdeat96 C, serask can FCKRA do C
+
+[flop]
+Cards = Ad, Qd, 5h
+
+
+[turn]
+Cards = 8d
+
+
+[river]
+Cards = 9c

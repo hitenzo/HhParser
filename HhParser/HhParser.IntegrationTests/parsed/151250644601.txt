@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Dan_Champ 500,moshe2828 500,duph50 500
+
+[preflop]
+Hand = 9d, Qs
+Actions = moshe2828 S, duph50 B, Dan_Champ can FCKRA do C, moshe2828 C, duph50 C
+
+[flop]
+Cards = 8h, Jd, 9c
+Actions = moshe2828 K, duph50 K, Dan_Champ can FCKRA do C
+
+[turn]
+Cards = 5s
+Actions = moshe2828 K, duph50 K, Dan_Champ can FCKRA do C
+
+[river]
+Cards = Ac
+Actions = moshe2828 K, duph50 K, Dan_Champ can FCKRA do C

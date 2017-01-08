@@ -1,0 +1,17 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = $hukran 1388,b_to21 112
+
+[preflop]
+Hand = 4d, 7h
+Actions = $hukran S, b_to21 B, $hukran can FCKRA do C
+
+
+
+
+

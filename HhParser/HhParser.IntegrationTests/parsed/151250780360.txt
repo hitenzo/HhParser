@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = 99luck1skill 500,amazingah 500,shell2110 500
+
+[preflop]
+Hand = 5h, Kc
+Actions = amazingah S, shell2110 B, 99luck1skill can FCKRA do C, amazingah F
+
+
+
+
+

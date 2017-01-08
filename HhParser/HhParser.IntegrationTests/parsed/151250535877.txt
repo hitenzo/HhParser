@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Domitrov367 270,69fever69 680,luckychizzz 550
+
+[preflop]
+Hand = 5s, 2s
+Actions = luckychizzz S, Domitrov367 B, 69fever69 can FCKRA do C, luckychizzz R, Domitrov367 C
+
+[flop]
+Cards = Tc, 5d, 7h
+Actions = luckychizzz B, Domitrov367 F
+
+
+

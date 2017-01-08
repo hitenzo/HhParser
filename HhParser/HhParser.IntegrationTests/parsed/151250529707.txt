@@ -1,0 +1,24 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = tofque 780,tchopper69 720
+
+[preflop]
+Hand = 8c, 7c
+Actions = tofque S, tchopper69 B, tofque can FCKRA do C, tchopper69 K
+
+[flop]
+Cards = 3c, 7s, Ad
+Actions = tchopper69 K, tofque can FCKRA do C
+
+[turn]
+Cards = 3d
+Actions = tchopper69 K, tofque can FCKRA do C
+
+[river]
+Cards = 5c
+Actions = tchopper69 K, tofque can FCKRA do C

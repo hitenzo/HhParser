@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = alemaum1992 103,GeoKacer 1177,spanchx 220
+
+[preflop]
+Hand = 5h, 5s
+Actions = spanchx S, alemaum1992 B, GeoKacer can FCKRA do C, spanchx C, alemaum1992 R, spanchx R, alemaum1992 C
+
+[flop]
+Cards = Tc, 6h, 8s
+
+
+[turn]
+Cards = 8c
+
+
+[river]
+Cards = As

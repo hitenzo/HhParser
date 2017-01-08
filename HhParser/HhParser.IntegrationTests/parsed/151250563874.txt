@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = suckmynutsz 820,TheGAM3Repor 428,RosyMonaLisa 252
+
+[preflop]
+Hand = Jc, As
+Actions = RosyMonaLisa S, suckmynutsz B, TheGAM3Repor can FCKRA do C, RosyMonaLisa F
+
+
+
+
+

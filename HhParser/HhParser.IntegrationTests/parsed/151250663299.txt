@@ -1,0 +1,23 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = goldpso 500,gulapokaer 500,Nikitos~3579 500
+
+[preflop]
+Hand = 8d, Jc
+Actions = gulapokaer S, Nikitos~3579 B, goldpso can FCKRA do C, gulapokaer F, Nikitos~3579 R, goldpso can FCKRA do C, Nikitos~3579 C
+
+[flop]
+Cards = Ah, 5d, Td
+
+
+[turn]
+Cards = Qd
+
+
+[river]
+Cards = Js

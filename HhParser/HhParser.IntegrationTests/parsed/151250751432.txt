@@ -1,0 +1,23 @@
+[table]
+sblind = 30
+bblind = 60
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = IveysPupi1 20,Nick_Lamp 1480
+
+[preflop]
+Hand = Tc, 3h
+Actions = 
+
+[flop]
+Cards = Ah, 3d, 8d
+
+
+[turn]
+Cards = 9h
+
+
+[river]
+Cards = 6d

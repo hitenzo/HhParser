@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Presunto1977 570,Huguin01 420,pnutwtf 510
+
+[preflop]
+Hand = 6s, 8d
+Actions = pnutwtf S, Presunto1977 B, Huguin01 can FCKRA do C, pnutwtf R, Presunto1977 F
+
+
+
+
+

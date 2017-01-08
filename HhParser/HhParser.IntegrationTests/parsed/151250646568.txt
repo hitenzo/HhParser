@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = poluektovDim 1185,redproject 315
+
+[preflop]
+Hand = 4c, 6s
+Actions = redproject S, poluektovDim B, redproject can FCKRA do C, poluektovDim F
+
+
+
+
+

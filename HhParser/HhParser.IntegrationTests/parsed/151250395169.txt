@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Zoodlez1 500,ouwebeuker 490,Passenger8 510
+
+[preflop]
+Hand = Ah, 8s
+Actions = Passenger8 S, Zoodlez1 B, ouwebeuker F, Passenger8 R, Zoodlez1 C
+
+[flop]
+Cards = 3c, 2d, 4c
+Actions = Passenger8 K, Zoodlez1 K
+
+[turn]
+Cards = 6s
+Actions = Passenger8 K, Zoodlez1 B, Passenger8 C
+
+[river]
+Cards = 6c
+Actions = Passenger8 K, Zoodlez1 K

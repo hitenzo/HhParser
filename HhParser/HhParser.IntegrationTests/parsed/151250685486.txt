@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ndreyyndreyy 530,I'magir! 490,Jumeriah 480
+
+[preflop]
+Hand = 3h, 9d
+Actions = Jumeriah S, ndreyyndreyy B, I'magir! F, Jumeriah F
+
+
+
+
+

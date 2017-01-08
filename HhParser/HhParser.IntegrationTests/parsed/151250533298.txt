@@ -1,0 +1,17 @@
+[table]
+sblind = 40
+bblind = 80
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = rodgv 590,selfinterest 910
+
+[preflop]
+Hand = Td, Ts
+Actions = rodgv S, selfinterest B, rodgv can FCKRA do C, selfinterest F
+
+
+
+
+

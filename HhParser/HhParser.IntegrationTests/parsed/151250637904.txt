@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = tesla197206 480,pulykakakas 460,antonnovitz9 560
+
+[preflop]
+Hand = Qd, Jh
+Actions = tesla197206 S, pulykakakas B, antonnovitz9 can FCKRA do C, tesla197206 F, pulykakakas K
+
+[flop]
+Cards = 9h, As, Jh
+Actions = pulykakakas B, antonnovitz9 can FCKRA do C
+
+[turn]
+Cards = Qs
+Actions = pulykakakas K, antonnovitz9 can FCKRA do C
+
+[river]
+Cards = 9s
+Actions = pulykakakas K, antonnovitz9 can FCKRA do C

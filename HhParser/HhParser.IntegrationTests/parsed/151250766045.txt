@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = ChesterSM 600,incicco 480,RICHARDGOME 420
+
+[preflop]
+Hand = Qc, Qd
+Actions = incicco S, RICHARD GOME B, ChesterSM can FCKRA do C, incicco F
+
+
+
+
+

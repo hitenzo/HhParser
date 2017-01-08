@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = kay69111 500,sello~toto 500,ImIndian12 500
+
+[preflop]
+Hand = Th, 6d
+Actions = sello~toto S, ImIndian12 B, kay69111 can FCKRA do C, sello~toto F
+
+
+
+
+

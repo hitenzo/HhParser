@@ -1,0 +1,24 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = legishere 500,Kissofdeat96 500,serask 500
+
+[preflop]
+Hand = Ad, 4c
+Actions = Kissofdeat96 S, serask B, legishere can FCKRA do C, Kissofdeat96 C, serask C
+
+[flop]
+Cards = 8d, 7d, Jd
+Actions = Kissofdeat96 B, serask C, legishere can FCKRA do C
+
+[turn]
+Cards = Ad
+Actions = Kissofdeat96 B, serask C
+
+[river]
+Cards = 5h
+Actions = Kissofdeat96 B, serask R, Kissofdeat96 C

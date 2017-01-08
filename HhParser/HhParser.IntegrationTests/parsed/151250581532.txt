@@ -1,0 +1,17 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Jalta111 370,SunJoe1979 1130
+
+[preflop]
+Hand = 5s, Kc
+Actions = Jalta111 S, SunJoe1979 B, Jalta111 can FCKRA do C
+
+
+
+
+

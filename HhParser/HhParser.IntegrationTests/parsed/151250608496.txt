@@ -1,0 +1,21 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = hustler10764 760,GugaoAraujo 740
+
+[preflop]
+Hand = As, 7c
+Actions = GugaoAraujo S, hustler10764 B, GugaoAraujo can FCKRA do C, hustler10764 C
+
+[flop]
+Cards = 9s, 3d, Th
+Actions = hustler10764 K, GugaoAraujo can FCKRA do C
+
+[turn]
+Cards = 4c
+Actions = hustler10764 B, GugaoAraujo can FCKRA do C
+

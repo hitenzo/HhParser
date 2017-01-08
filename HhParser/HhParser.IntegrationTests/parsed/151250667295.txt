@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = sebas23 500,marioskots76 490,W1847 510
+
+[preflop]
+Hand = Qh, 2s
+Actions = W1847 S, sebas23 B, marioskots76 can FCKRA do C, W1847 C, sebas23 K
+
+[flop]
+Cards = 6s, 3c, 9s
+Actions = W1847 K, sebas23 B, W1847 F
+
+
+

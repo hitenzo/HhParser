@@ -1,0 +1,19 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Razorback#9 365,veky 510,Jalta111 625
+
+[preflop]
+Hand = 6s, Qs
+Actions = Razorback#9 S, veky B, Jalta111 can FCKRA do C, Razorback#9 C, veky F
+
+[flop]
+Cards = 4s, 8s, Ah
+Actions = Razorback#9 K, Jalta111 can FCKRA do C, Razorback#9 F
+
+
+

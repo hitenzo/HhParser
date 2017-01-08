@@ -1,0 +1,19 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Bek1608 560,espresso1965 940
+
+[preflop]
+Hand = 8s, 2c
+Actions = Bek1608 S, espresso1965 B, Bek1608 can FCKRA do C, espresso1965 K
+
+[flop]
+Cards = 7h, 7c, 8c
+Actions = espresso1965 K, Bek1608 can FCKRA do C, espresso1965 F
+
+
+

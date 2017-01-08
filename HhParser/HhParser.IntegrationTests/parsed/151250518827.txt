@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = Mr_Defo2 95,CedVL 1405
+
+[preflop]
+Hand = 5h, Qd
+Actions = CedVL S, Mr_Defo2 B, CedVL can FCKRA do C, Mr_Defo2 F
+
+
+
+
+

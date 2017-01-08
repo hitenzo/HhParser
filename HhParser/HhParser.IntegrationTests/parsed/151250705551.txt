@@ -1,0 +1,19 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = romeo69181 550,kerry5874 470,draos88222 480
+
+[preflop]
+Hand = Ks, Qd
+Actions = kerry5874 S, draos88222 B, romeo69181 can FCKRA do C, kerry5874 F, draos88222 K
+
+[flop]
+Cards = Qd, 3s, 2h
+Actions = draos88222 F
+
+
+

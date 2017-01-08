@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = REALACID 600,benja121 520,null013 380
+
+[preflop]
+Hand = 3s, 8c
+Actions = null013 S, REALACID B, benja121 can FCKRA do C, null013 R, REALACID R, benja121 can FCKRA do C, null013 F
+
+
+
+
+

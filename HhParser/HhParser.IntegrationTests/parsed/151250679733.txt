@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = shell2110 550,rensekarl 510,qwert966 440
+
+[preflop]
+Hand = 9c, Td
+Actions = shell2110 S, rensekarl B, qwert966 can FCKRA do C, shell2110 F
+
+
+
+
+

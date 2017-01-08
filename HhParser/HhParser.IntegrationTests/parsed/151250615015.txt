@@ -1,0 +1,17 @@
+[table]
+sblind = 15
+bblind = 30
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = hieu102014 945,amazingah 555
+
+[preflop]
+Hand = 9h, Jc
+Actions = amazingah S, hieu102014 B, amazingah can FCKRA do C
+
+
+
+
+

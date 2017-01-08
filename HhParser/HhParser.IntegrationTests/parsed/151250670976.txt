@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = dilanmcy1 660,MPCheck 390,maximpps 450
+
+[preflop]
+Hand = 4h, 2c
+Actions = dilanmcy1 S, MPCheck B, maximpps can FCKRA do C, dilanmcy1 F
+
+
+
+
+

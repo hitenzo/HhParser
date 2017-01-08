@@ -1,0 +1,17 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = maxbank1 970,firstpoke4 530
+
+[preflop]
+Hand = 7s, Ah
+Actions = maxbank1 S, firstpoke4 B, maxbank1 can FCKRA do C
+
+
+
+
+

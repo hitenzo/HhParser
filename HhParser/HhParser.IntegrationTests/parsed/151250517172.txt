@@ -1,0 +1,19 @@
+[table]
+sblind = 20
+bblind = 40
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = gregstoned 980,QueenSheeba 520
+
+[preflop]
+Hand = 4s, 3d
+Actions = gregstoned S, QueenSheeba B, gregstoned can FCKRA do C, QueenSheeba K
+
+[flop]
+Cards = 6d, Ac, Th
+Actions = QueenSheeba B, gregstoned can FCKRA do C
+
+
+

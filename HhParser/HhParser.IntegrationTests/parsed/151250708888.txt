@@ -1,0 +1,17 @@
+[table]
+sblind = 10
+bblind = 20
+ante = 0
+gtype = FL
+network = Everest
+tournament = False
+balances = quite.n00b 470,kiziy 100,chinoalbo91 930
+
+[preflop]
+Hand = As, Qd
+Actions = chinoalbo91 S, quite.n00b B, kiziy can FCKRA do C, chinoalbo91 F, quite.n00b F
+
+
+
+
+
